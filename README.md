@@ -1,5 +1,30 @@
 # IMF Plot Data Extractor
 
+⚠️ **IMPORTANT: Accuracy Limitations**
+
+This tool uses **pixel-based computer vision** to extract data from plot images. While it automates the extraction process, the results are **APPROXIMATE** and should be verified for accuracy before use in analysis.
+
+**Known Limitations:**
+- Values may be off by several percentage points
+- Mixed charts (bars + scatter) may produce multiple/incorrect detections
+- Complex or overlapping plots reduce accuracy
+- Works best for simple, well-separated bar charts
+- **Manual verification strongly recommended**
+
+**Best Used For:**
+- Quick exploratory data extraction
+- Getting approximate trends
+- Identifying patterns across many plots
+
+**NOT Recommended For:**
+- Precise numeric analysis requiring exact values
+- Publication or citation of extracted numbers
+- Critical economic decisions
+
+For precise values, consider manual extraction or OCR-based tools.
+
+---
+
 This tool extracts numeric data from plot images (PNG, JPG) using advanced image processing techniques.
 
 ## Features
@@ -9,7 +34,7 @@ This tool extracts numeric data from plot images (PNG, JPG) using advanced image
 - **Rich metadata annotations**: Comprehensive plot information including titles, axis labels, series descriptions, and contextual notes
 - **Multiple output formats**: Exports data to both CSV and JSON formats
 - **Batch processing**: Process all plots in a directory at once
-- **High accuracy**: Uses OpenCV and machine learning for precise data extraction
+- **Pixel-based extraction**: Uses OpenCV and K-means clustering (approximate results - see limitations above)
 - **Self-documenting data**: Extracted CSV/JSON files include metadata for immediate analysis
 
 ## Installation
@@ -160,12 +185,28 @@ The metadata is automatically loaded and merged into extracted CSV and JSON outp
 - Line plots with markers
 - Combined bar and line plots
 
-## Notes
+## Notes and Accuracy Considerations
 
-- Values are extracted as percentages of the plot area (0-100 scale)
-- Colors are represented in RGB format
-- The tool works best with clear, high-resolution plot images
-- For axis labels and exact values, manual calibration may be needed
+⚠️ **Critical:** This tool provides APPROXIMATE values only. Extracted data should be verified against source plots before use.
+
+**Accuracy Factors:**
+- Values extracted via pixel measurement (not from labeled numbers)
+- Measurement accuracy varies by plot complexity
+- Simple bar charts: Better accuracy (~±2-5%)
+- Complex/mixed charts: Lower accuracy (~±5-15% or more)
+- Overlapping elements reduce accuracy significantly
+
+**Recommendations:**
+1. Always visually compare extracted data with source plots
+2. Use this for exploratory analysis and trend identification
+3. Verify critical values manually before publication
+4. Consider this a starting point, not ground truth
+
+**Technical Details:**
+- Values initially extracted as percentages of plot pixel height (0-100 scale)
+- Converted to actual y-axis values using metadata ranges
+- Colors identified via RGB K-means clustering
+- Best results with high-resolution, clear plot images
 
 ## Example Workflow
 
