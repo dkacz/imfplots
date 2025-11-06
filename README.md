@@ -6,9 +6,11 @@ This tool extracts numeric data from plot images (PNG, JPG) using advanced image
 
 - **Automatic plot type detection**: Detects bar charts, scatter plots, and combined visualizations
 - **Color-based series extraction**: Identifies different data series by color
+- **Rich metadata annotations**: Comprehensive plot information including titles, axis labels, series descriptions, and contextual notes
 - **Multiple output formats**: Exports data to both CSV and JSON formats
 - **Batch processing**: Process all plots in a directory at once
 - **High accuracy**: Uses OpenCV and machine learning for precise data extraction
+- **Self-documenting data**: Extracted CSV/JSON files include metadata for immediate analysis
 
 ## Installation
 
@@ -57,18 +59,18 @@ python extract_plot_data.py --plot-type auto    # Auto-detect (default)
 
 For **bar charts**:
 ```csv
-series,x_position,value,color_r,color_g,color_b
-series_0,0,85.2,100,149,237
-series_0,1,82.1,100,149,237
-series_1,0,60.3,220,20,60
+series,x_position,value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,0,85.2,100,149,237,CIT and DBCFT Revenue by Country,Comparison of Corporate Income Tax...,Countries,Percent of GDP
+series_0,1,82.1,100,149,237,CIT and DBCFT Revenue by Country,Comparison of Corporate Income Tax...,Countries,Percent of GDP
+series_1,0,60.3,220,20,60,CIT and DBCFT Revenue by Country,Comparison of Corporate Income Tax...,Countries,Percent of GDP
 ```
 
 For **scatter plots**:
 ```csv
-series,x_value,y_value,color_r,color_g,color_b
-series_0,25.5,68.3,100,149,237
-series_0,30.2,72.1,100,149,237
-series_1,15.8,45.2,220,20,60
+series,x_value,y_value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,25.5,68.3,100,149,237,Revenue Gain vs Loss,Scatter plot showing...,Trade Balance,Revenue Change
+series_0,30.2,72.1,100,149,237,Revenue Gain vs Loss,Scatter plot showing...,Trade Balance,Revenue Change
+series_1,15.8,45.2,220,20,60,Revenue Gain vs Loss,Scatter plot showing...,Trade Balance,Revenue Change
 ```
 
 ### JSON Format
@@ -84,9 +86,61 @@ series_1,15.8,45.2,220,20,60
       "values": [85.2, 82.1, 78.5],
       "color": [100, 149, 237]
     }
+  },
+  "metadata": {
+    "title": "CIT and DBCFT Revenue by Country",
+    "description": "Comparison of Corporate Income Tax (CIT) revenue versus Destination-Based Cash Flow Tax (DBCFT) revenue across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": ["USA", "MEX", "JPN", ...]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [-5, 15]
+    },
+    "series": {
+      "CIT revenue": {
+        "color": "blue",
+        "description": "Corporate Income Tax revenue as percent of GDP"
+      },
+      "DBCFT revenue": {
+        "color": "red",
+        "description": "Destination-Based Cash Flow Tax revenue as percent of GDP"
+      }
+    },
+    "notes": "Shows significant variation in tax revenue across countries..."
   }
 }
 ```
+
+## Metadata Annotations
+
+The extraction system includes comprehensive metadata for all plots, manually curated by examining each image. The `plot_metadata.json` file contains:
+
+### Metadata Fields
+
+- **title**: Plot title
+- **description**: Detailed description of what the plot shows
+- **plot_type**: Specific type (e.g., "grouped_bar_chart", "scatter_plot", "multi_panel_time_series")
+- **x_axis**: Label, type, unit, range, and categorical values (e.g., country lists)
+- **y_axis**: Label, unit, and range
+- **series**: Names, colors, and descriptions of each data series
+- **reference_lines**: Information about trend lines, mean lines, or other reference markers
+- **labeled_countries**: Country codes visible in the plot
+- **notes**: Analytical insights and key observations
+
+### Metadata Coverage
+
+All 13 plots include metadata describing:
+- **Economic concepts**: CIT (Corporate Income Tax), DBCFT (Destination-Based Cash Flow Tax), revenue neutrality, trade balance, Net IIP
+- **Country data**: Lists of countries with ISO 3-letter codes where applicable
+- **Axes and units**: Percent of GDP, ratios, US dollars, years
+- **Contextual insights**: Trade deficit vs surplus effects, resource richness, development level
+
+The metadata is automatically loaded and merged into extracted CSV and JSON outputs, making the data self-documenting.
 
 ## How It Works
 
