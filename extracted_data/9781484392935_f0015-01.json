@@ -637,5 +637,67 @@
         223
       ]
     }
+  },
+  "metadata": {
+    "title": "Tax Revenue by Development Level and GDP Per Capita",
+    "description": "Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita",
+    "plot_type": "combined_bar_and_scatter",
+    "panels": {
+      "left": {
+        "type": "grouped_bar_chart",
+        "title": "Revenue by Development Level",
+        "x_axis": {
+          "label": "Economic Development",
+          "categories": [
+            "Developing",
+            "Advanced"
+          ]
+        },
+        "y_axis": {
+          "label": "Percent of GDP",
+          "unit": "percent",
+          "range": [
+            0,
+            4
+          ]
+        },
+        "series": {
+          "CIT": {
+            "color": "blue",
+            "description": "CIT revenue as percent of GDP"
+          },
+          "DBCFT": {
+            "color": "pink",
+            "description": "DBCFT revenue as percent of GDP"
+          }
+        }
+      },
+      "right": {
+        "type": "scatter_plot",
+        "title": "Revenue Change vs GDP Per Capita",
+        "x_axis": {
+          "label": "US$ GDP per capita",
+          "unit": "US dollars",
+          "range": [
+            0,
+            150000
+          ]
+        },
+        "y_axis": {
+          "label": "Change in revenue, Percent of GDP",
+          "unit": "percent",
+          "range": [
+            -10,
+            10
+          ]
+        },
+        "trend_line": {
+          "present": true,
+          "color": "pink",
+          "description": "Negative correlation between GDP per capita and revenue change"
+        }
+      }
+    },
+    "notes": "Developing countries show higher tax revenue as percent of GDP; wealthier countries tend to lose revenue from DBCFT adoption"
   }
 }

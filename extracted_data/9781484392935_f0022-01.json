@@ -677,5 +677,83 @@
         215
       ]
     }
+  },
+  "metadata": {
+    "title": "Standard Deviation of CIT and DBCFT Revenue by Country",
+    "description": "Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": [
+        "AUT",
+        "BEL",
+        "DNK",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "IRL",
+        "ITA",
+        "LUX",
+        "NLD",
+        "PRT",
+        "ESP",
+        "SWE",
+        "GBR",
+        "CAN",
+        "JPN",
+        "USA",
+        "AUS",
+        "NZL",
+        "ISR",
+        "KOR",
+        "TUR",
+        "CHL",
+        "EST",
+        "HUN",
+        "LVA",
+        "LTU",
+        "POL",
+        "SVK",
+        "SVN",
+        "CZE",
+        "NOR",
+        "CHE",
+        "ISL",
+        "MEX",
+        "CRI",
+        "BRA",
+        "ARG",
+        "COL",
+        "IND"
+      ]
+    },
+    "y_axis": {
+      "label": "Standard Deviation",
+      "unit": "standard_deviation",
+      "range": [
+        0,
+        1.6
+      ]
+    },
+    "series": {
+      "CIT": {
+        "color": "blue",
+        "description": "Standard deviation of CIT revenue"
+      },
+      "DBCFT": {
+        "color": "pink",
+        "description": "Standard deviation of DBCFT revenue"
+      }
+    },
+    "reference_lines": {
+      "mean_lines": {
+        "present": true,
+        "style": "dashed",
+        "description": "Mean standard deviation for CIT and DBCFT"
+      }
+    },
+    "notes": "Shows relative volatility of tax revenues under different tax systems; some countries show higher volatility under DBCFT"
   }
 }

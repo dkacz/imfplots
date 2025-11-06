@@ -1,120 +1,120 @@
-series,x_position,value,color_r,color_g,color_b
-series_0,3,28.26086956521739,210,134,111
-series_0,5,28.985507246376812,210,134,111
-series_0,7,26.811594202898554,210,134,111
-series_0,8,28.26086956521739,210,134,111
-series_0,9,28.985507246376812,210,134,111
-series_0,35,100.0,210,134,111
-series_0,37,100.0,210,134,111
-series_0,40,100.0,210,134,111
-series_0,71,45.289855072463766,210,134,111
-series_0,72,45.65217391304348,210,134,111
-series_0,73,47.82608695652174,210,134,111
-series_0,74,47.82608695652174,210,134,111
-series_0,75,46.73913043478261,210,134,111
-series_0,76,97.82608695652173,210,134,111
-series_0,77,45.65217391304348,210,134,111
-series_0,78,99.63768115942028,210,134,111
-series_0,80,83.69565217391305,210,134,111
-series_0,81,84.42028985507247,210,134,111
-series_0,82,99.63768115942028,210,134,111
-series_0,83,99.63768115942028,210,134,111
-series_0,84,99.63768115942028,210,134,111
-series_0,86,66.66666666666666,210,134,111
-series_0,87,92.7536231884058,210,134,111
-series_0,88,90.57971014492753,210,134,111
-series_0,89,93.11594202898551,210,134,111
-series_0,90,69.20289855072464,210,134,111
-series_0,91,68.11594202898551,210,134,111
-series_0,92,93.11594202898551,210,134,111
-series_0,93,93.11594202898551,210,134,111
-series_0,94,92.3913043478261,210,134,111
-series_0,95,93.11594202898551,210,134,111
-series_0,96,53.62318840579711,210,134,111
-series_0,97,52.17391304347826,210,134,111
-series_0,98,40.94202898550724,210,134,111
-series_0,99,41.66666666666667,210,134,111
-series_2,1,28.985507246376812,206,191,191
-series_2,2,29.347826086956523,206,191,191
-series_2,3,28.985507246376812,206,191,191
-series_2,4,29.347826086956523,206,191,191
-series_2,5,26.08695652173913,206,191,191
-series_2,6,29.347826086956523,206,191,191
-series_2,7,29.347826086956523,206,191,191
-series_2,8,27.173913043478258,206,191,191
-series_2,9,29.347826086956523,206,191,191
-series_2,33,99.63768115942028,206,191,191
-series_2,35,100.0,206,191,191
-series_2,70,46.73913043478261,206,191,191
-series_2,71,47.82608695652174,206,191,191
-series_2,72,46.3768115942029,206,191,191
-series_2,74,46.3768115942029,206,191,191
-series_2,76,82.6086956521739,206,191,191
-series_2,77,97.10144927536231,206,191,191
-series_2,78,98.91304347826086,206,191,191
-series_2,79,100.0,206,191,191
-series_2,80,100.0,206,191,191
-series_2,81,100.0,206,191,191
-series_2,82,100.0,206,191,191
-series_2,83,100.0,206,191,191
-series_2,84,22.463768115942027,206,191,191
-series_2,85,97.46376811594203,206,191,191
-series_2,86,69.20289855072464,206,191,191
-series_2,87,92.02898550724638,206,191,191
-series_2,88,93.11594202898551,206,191,191
-series_2,89,67.7536231884058,206,191,191
-series_2,90,93.47826086956522,206,191,191
-series_2,91,93.47826086956522,206,191,191
-series_2,92,93.47826086956522,206,191,191
-series_2,93,90.21739130434783,206,191,191
-series_2,94,93.47826086956522,206,191,191
-series_2,95,93.47826086956522,206,191,191
-series_2,96,54.347826086956516,206,191,191
-series_2,97,55.434782608695656,206,191,191
-series_2,98,58.69565217391305,206,191,191
-series_2,99,60.86956521739131,206,191,191
-series_3,0,100.0,121,127,133
-series_4,1,28.6231884057971,171,52,59
-series_4,2,28.985507246376812,171,52,59
-series_4,3,28.6231884057971,171,52,59
-series_4,4,28.985507246376812,171,52,59
-series_4,6,26.811594202898554,171,52,59
-series_4,7,28.985507246376812,171,52,59
-series_4,8,28.985507246376812,171,52,59
-series_4,9,28.6231884057971,171,52,59
-series_4,32,100.0,171,52,59
-series_4,33,100.0,171,52,59
-series_4,35,100.0,171,52,59
-series_4,36,100.0,171,52,59
-series_4,38,100.0,171,52,59
-series_4,39,100.0,171,52,59
-series_4,70,46.73913043478261,171,52,59
-series_4,71,47.10144927536232,171,52,59
-series_4,72,46.73913043478261,171,52,59
-series_4,73,46.3768115942029,171,52,59
-series_4,74,46.73913043478261,171,52,59
-series_4,75,46.3768115942029,171,52,59
-series_4,76,98.91304347826086,171,52,59
-series_4,77,99.63768115942028,171,52,59
-series_4,78,98.55072463768117,171,52,59
-series_4,79,97.46376811594203,171,52,59
-series_4,80,99.63768115942028,171,52,59
-series_4,81,99.63768115942028,171,52,59
-series_4,82,98.55072463768117,171,52,59
-series_4,83,99.63768115942028,171,52,59
-series_4,84,99.63768115942028,171,52,59
-series_4,85,97.10144927536231,171,52,59
-series_4,86,68.84057971014492,171,52,59
-series_4,87,93.11594202898551,171,52,59
-series_4,88,93.11594202898551,171,52,59
-series_4,89,67.7536231884058,171,52,59
-series_4,90,92.02898550724638,171,52,59
-series_4,91,93.11594202898551,171,52,59
-series_4,92,93.11594202898551,171,52,59
-series_4,93,93.11594202898551,171,52,59
-series_4,94,92.7536231884058,171,52,59
-series_4,95,92.7536231884058,171,52,59
-series_4,96,54.710144927536234,171,52,59
-series_4,97,42.028985507246375,171,52,59
-series_4,98,42.391304347826086,171,52,59
-series_4,99,40.57971014492754,171,52,59
+series,x_position,value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,3,28.26086956521739,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,5,28.985507246376812,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,7,26.811594202898554,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,8,28.26086956521739,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,9,28.985507246376812,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,35,100.0,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,37,100.0,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,40,100.0,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,71,45.289855072463766,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,72,45.65217391304348,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,73,47.82608695652174,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,74,47.82608695652174,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,75,46.73913043478261,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,76,97.82608695652173,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,77,45.65217391304348,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,78,99.63768115942028,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,80,83.69565217391305,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,81,84.42028985507247,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,82,99.63768115942028,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,83,99.63768115942028,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,84,99.63768115942028,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,86,66.66666666666666,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,87,92.7536231884058,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,88,90.57971014492753,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,89,93.11594202898551,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,90,69.20289855072464,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,91,68.11594202898551,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,92,93.11594202898551,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,93,93.11594202898551,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,94,92.3913043478261,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,95,93.11594202898551,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,96,53.62318840579711,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,97,52.17391304347826,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,98,40.94202898550724,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,99,41.66666666666667,210,134,111,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,1,28.985507246376812,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,2,29.347826086956523,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,3,28.985507246376812,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,4,29.347826086956523,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,5,26.08695652173913,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,6,29.347826086956523,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,7,29.347826086956523,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,8,27.173913043478258,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,9,29.347826086956523,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,33,99.63768115942028,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,35,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,70,46.73913043478261,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,71,47.82608695652174,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,72,46.3768115942029,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,74,46.3768115942029,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,76,82.6086956521739,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,77,97.10144927536231,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,78,98.91304347826086,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,79,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,80,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,81,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,82,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,83,100.0,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,84,22.463768115942027,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,85,97.46376811594203,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,86,69.20289855072464,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,87,92.02898550724638,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,88,93.11594202898551,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,89,67.7536231884058,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,90,93.47826086956522,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,91,93.47826086956522,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,92,93.47826086956522,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,93,90.21739130434783,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,94,93.47826086956522,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,95,93.47826086956522,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,96,54.347826086956516,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,97,55.434782608695656,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,98,58.69565217391305,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,99,60.86956521739131,206,191,191,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,0,100.0,121,127,133,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,1,28.6231884057971,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,2,28.985507246376812,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,3,28.6231884057971,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,4,28.985507246376812,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,6,26.811594202898554,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,7,28.985507246376812,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,8,28.985507246376812,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,9,28.6231884057971,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,32,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,33,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,35,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,36,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,38,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,39,100.0,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,70,46.73913043478261,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,71,47.10144927536232,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,72,46.73913043478261,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,73,46.3768115942029,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,74,46.73913043478261,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,75,46.3768115942029,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,76,98.91304347826086,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,77,99.63768115942028,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,78,98.55072463768117,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,79,97.46376811594203,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,80,99.63768115942028,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,81,99.63768115942028,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,82,98.55072463768117,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,83,99.63768115942028,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,84,99.63768115942028,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,85,97.10144927536231,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,86,68.84057971014492,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,87,93.11594202898551,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,88,93.11594202898551,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,89,67.7536231884058,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,90,92.02898550724638,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,91,93.11594202898551,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,92,93.11594202898551,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,93,93.11594202898551,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,94,92.7536231884058,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,95,92.7536231884058,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,96,54.710144927536234,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,97,42.028985507246375,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,98,42.391304347826086,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,99,40.57971014492754,171,52,59,CIT Revenue Change vs DBCFT Adoption (Negative Range Focus),Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"

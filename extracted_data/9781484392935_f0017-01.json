@@ -284,5 +284,37 @@
         114
       ]
     }
+  },
+  "metadata": {
+    "title": "CIT and DBCFT Revenue: Resource-Rich vs Non-Resource-Rich Countries",
+    "description": "Comparison of tax revenues between resource-rich and non-resource-rich countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Country Type",
+      "type": "categorical",
+      "categories": [
+        "Non-resource rich",
+        "Resource rich"
+      ]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [
+        0,
+        5
+      ]
+    },
+    "series": {
+      "CIT revenue": {
+        "color": "blue",
+        "description": "Corporate Income Tax revenue as percent of GDP"
+      },
+      "DBCFT revenue": {
+        "color": "pink",
+        "description": "Destination-Based Cash Flow Tax revenue as percent of GDP"
+      }
+    },
+    "notes": "Resource-rich countries show higher tax revenue overall; both country types show similar patterns between CIT and DBCFT"
   }
 }

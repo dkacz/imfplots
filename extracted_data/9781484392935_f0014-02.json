@@ -380,5 +380,41 @@
         194
       ]
     }
+  },
+  "metadata": {
+    "title": "Tax Revenue Comparison by Trade Balance Status",
+    "description": "Comparison of current revenue, CFT revenue, and DBCFT revenue for countries with trade deficit vs surplus",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Trade Status",
+      "type": "categorical",
+      "categories": [
+        "Trade deficit",
+        "Trade surplus"
+      ]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [
+        0,
+        4
+      ]
+    },
+    "series": {
+      "Current revenue": {
+        "color": "blue_gray",
+        "description": "Current tax revenue under CIT system"
+      },
+      "CFT revenue": {
+        "color": "light_gray",
+        "description": "Cash Flow Tax revenue (no border adjustment)"
+      },
+      "DBCFT revenue": {
+        "color": "pink",
+        "description": "Destination-Based Cash Flow Tax revenue"
+      }
+    },
+    "notes": "Trade deficit countries see higher DBCFT revenue compared to trade surplus countries"
   }
 }

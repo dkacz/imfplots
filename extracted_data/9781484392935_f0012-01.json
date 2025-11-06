@@ -496,5 +496,69 @@
         124
       ]
     }
+  },
+  "metadata": {
+    "title": "CIT and DBCFT Revenue by Country",
+    "description": "Comparison of Corporate Income Tax (CIT) revenue versus Destination-Based Cash Flow Tax (DBCFT) revenue across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": [
+        "USA",
+        "MEX",
+        "JPN",
+        "GBR",
+        "FRA",
+        "ITA",
+        "DEU",
+        "CAN",
+        "AUS",
+        "ESP",
+        "KOR",
+        "NLD",
+        "BEL",
+        "CHE",
+        "SWE",
+        "AUT",
+        "POL",
+        "NOR",
+        "DNK",
+        "FIN",
+        "ISR",
+        "PRT",
+        "CZE",
+        "GRC",
+        "NZL",
+        "SVK",
+        "CHL",
+        "HUN",
+        "IRL",
+        "SVN",
+        "LTU",
+        "LUX",
+        "LVA",
+        "EST"
+      ]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -5,
+        15
+      ]
+    },
+    "series": {
+      "CIT revenue": {
+        "color": "blue",
+        "description": "Corporate Income Tax revenue as percent of GDP"
+      },
+      "DBCFT revenue": {
+        "color": "red",
+        "description": "Destination-Based Cash Flow Tax revenue as percent of GDP"
+      }
+    },
+    "notes": "Shows significant variation in tax revenue across countries, with some countries having negative DBCFT revenue values"
   }
 }

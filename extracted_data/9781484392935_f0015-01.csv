@@ -1,288 +1,288 @@
-series,x_value,y_value,color_r,color_g,color_b
-series_0,77.73019271948608,5.363984674329502,145,179,213
-series_0,92.93361884368309,9.578544061302683,145,179,213
-series_0,92.50535331905782,11.11111111111111,145,179,213
-series_0,81.5845824411135,12.260536398467432,145,179,213
-series_0,68.95074946466809,31.800766283524908,145,179,213
-series_0,68.3083511777302,34.099616858237546,145,179,213
-series_0,59.95717344753747,35.63218390804598,145,179,213
-series_0,59.95717344753747,40.61302681992337,145,179,213
-series_0,59.314775160599574,42.911877394636015,145,179,213
-series_0,71.5203426124197,43.67816091954023,145,179,213
-series_0,84.1541755888651,44.827586206896555,145,179,213
-series_0,72.37687366167023,45.97701149425287,145,179,213
-series_0,73.23340471092077,45.97701149425287,145,179,213
-series_0,72.1627408993576,47.12643678160919,145,179,213
-series_0,69.16488222698072,47.89272030651341,145,179,213
-series_0,70.66381156316916,47.12643678160919,145,179,213
-series_0,60.81370449678801,47.12643678160919,145,179,213
-series_0,74.94646680942184,45.97701149425287,145,179,213
-series_0,66.80942184154176,48.65900383141762,145,179,213
-series_0,59.314775160599574,50.95785440613027,145,179,213
-series_0,76.87366167023555,51.34099616858238,145,179,213
-series_0,64.88222698072805,53.25670498084292,145,179,213
-series_0,74.7323340471092,53.63984674329502,145,179,213
-series_0,73.44753747323341,50.95785440613027,145,179,213
-series_0,68.95074946466809,53.25670498084292,145,179,213
-series_0,76.23126338329764,54.406130268199234,145,179,213
-series_0,74.7323340471092,54.78927203065134,145,179,213
-series_0,73.44753747323341,54.78927203065134,145,179,213
-series_0,69.593147751606,55.172413793103445,145,179,213
-series_0,64.23982869379014,55.172413793103445,145,179,213
-series_0,59.52890792291221,55.938697318007655,145,179,213
-series_0,73.44753747323341,55.938697318007655,145,179,213
-series_0,64.02569593147751,49.808429118773944,145,179,213
-series_0,61.67023554603854,56.70498084291188,145,179,213
-series_0,60.599571734475376,56.32183908045977,145,179,213
-series_0,66.80942184154176,54.406130268199234,145,179,213
-series_0,59.52890792291221,57.8544061302682,145,179,213
-series_0,66.38115631691649,58.23754789272031,145,179,213
-series_0,60.17130620985011,58.620689655172406,145,179,213
-series_0,61.02783725910065,59.00383141762452,145,179,213
-series_0,65.31049250535332,59.77011494252874,145,179,213
-series_0,60.17130620985011,59.77011494252874,145,179,213
-series_0,71.73447537473233,61.30268199233716,145,179,213
-series_0,70.44967880085653,57.47126436781609,145,179,213
-series_0,64.02569593147751,59.00383141762452,145,179,213
-series_0,66.38115631691649,61.30268199233716,145,179,213
-series_0,74.08993576017131,60.15325670498084,145,179,213
-series_0,67.6659528907923,62.45210727969349,145,179,213
-series_0,65.52462526766595,63.601532567049816,145,179,213
-series_0,61.24197002141327,62.83524904214559,145,179,213
-series_0,59.743040685224834,63.601532567049816,145,179,213
-series_0,72.1627408993576,63.2183908045977,145,179,213
-series_0,62.526766595289075,65.13409961685824,145,179,213
-series_0,73.44753747323341,64.75095785440614,145,179,213
-series_0,71.5203426124197,65.51724137931035,145,179,213
-series_0,65.95289079229121,65.90038314176245,145,179,213
-series_0,60.17130620985011,65.51724137931035,145,179,213
-series_0,72.59100642398288,66.28352490421456,145,179,213
-series_0,3.2119914346895073,26.053639846743295,145,179,213
-series_0,69.16488222698072,64.36781609195403,145,179,213
-series_0,70.66381156316916,68.19923371647509,145,179,213
-series_0,61.02783725910065,67.43295019157088,145,179,213
-series_0,59.52890792291221,69.34865900383141,145,179,213
-series_0,25.69593147751606,27.969348659003828,145,179,213
-series_0,66.80942184154176,68.5823754789272,145,179,213
-series_0,63.38329764453962,70.88122605363985,145,179,213
-series_0,72.1627408993576,71.26436781609196,145,179,213
-series_0,62.526766595289075,68.19923371647509,145,179,213
-series_0,59.314775160599574,73.18007662835248,145,179,213
-series_0,68.3083511777302,71.26436781609196,145,179,213
-series_0,67.02355460385438,75.47892720306514,145,179,213
-series_0,72.37687366167023,74.71264367816092,145,179,213
-series_0,67.88008565310493,76.62835249042146,145,179,213
-series_0,66.16702355460386,77.39463601532567,145,179,213
-series_0,59.52890792291221,79.3103448275862,145,179,213
-series_0,61.88436830835118,75.47892720306514,145,179,213
-series_0,65.52462526766595,80.07662835249042,145,179,213
-series_0,59.95717344753747,80.84291187739464,145,179,213
-series_0,59.52890792291221,83.5249042145594,145,179,213
-series_0,59.95717344753747,84.2911877394636,145,179,213
-series_0,60.17130620985011,87.73946360153256,145,179,213
-series_0,59.52890792291221,88.88888888888889,145,179,213
-series_0,60.38543897216274,99.23371647509579,145,179,213
-series_0,59.314775160599574,99.23371647509579,145,179,213
-series_1,34.26124197002141,26.81992337164751,215,138,148
-series_1,11.563169164882227,36.39846743295019,215,138,148
-series_2,50.32119914346895,34.86590038314176,98,86,94
-series_3,59.95717344753747,36.015325670498086,102,145,191
-series_3,60.38543897216274,40.229885057471265,102,145,191
-series_3,59.314775160599574,41.7624521072797,102,145,191
-series_3,59.95717344753747,41.7624521072797,102,145,191
-series_3,59.743040685224834,43.67816091954023,102,145,191
-series_3,72.59100642398288,45.593869731800766,102,145,191
-series_3,64.45396145610277,44.827586206896555,102,145,191
-series_3,66.16702355460386,46.36015325670498,102,145,191
-series_3,64.02569593147751,46.74329501915709,102,145,191
-series_3,60.599571734475376,47.12643678160919,102,145,191
-series_3,73.87580299785867,47.89272030651341,102,145,191
-series_3,64.23982869379014,48.65900383141762,102,145,191
-series_3,73.01927194860814,50.57471264367817,102,145,191
-series_3,73.66167023554604,50.57471264367817,102,145,191
-series_3,72.59100642398288,51.724137931034484,102,145,191
-series_3,75.80299785867237,54.02298850574713,102,145,191
-series_3,69.593147751606,54.02298850574713,102,145,191
-series_3,68.3083511777302,53.25670498084292,102,145,191
-series_3,66.16702355460386,52.10727969348659,102,145,191
-series_3,67.45182012847965,55.172413793103445,102,145,191
-series_3,68.3083511777302,55.172413793103445,102,145,191
-series_3,66.38115631691649,55.55555555555556,102,145,191
-series_3,74.7323340471092,59.00383141762452,102,145,191
-series_3,65.31049250535332,61.30268199233716,102,145,191
-series_3,64.66809421841542,62.83524904214559,102,145,191
-series_3,66.38115631691649,64.75095785440614,102,145,191
-series_3,61.88436830835118,56.70498084291188,102,145,191
-series_3,67.02355460385438,65.90038314176245,102,145,191
-series_3,71.30620985010707,61.68582375478927,102,145,191
-series_3,3.2119914346895073,66.66666666666666,102,145,191
-series_3,70.8779443254818,66.28352490421456,102,145,191
-series_3,70.44967880085653,67.43295019157088,102,145,191
-series_3,65.73875802997858,66.66666666666666,102,145,191
-series_3,62.95503211991434,65.13409961685824,102,145,191
-series_3,25.910064239828696,69.73180076628353,102,145,191
-series_3,66.80942184154176,68.96551724137932,102,145,191
-series_3,59.314775160599574,68.96551724137932,102,145,191
-series_3,68.52248394004282,68.96551724137932,102,145,191
-series_3,60.38543897216274,70.49808429118774,102,145,191
-series_3,62.31263383297645,72.79693486590038,102,145,191
-series_3,63.16916488222698,73.18007662835248,102,145,191
-series_3,73.01927194860814,75.47892720306514,102,145,191
-series_3,63.16916488222698,77.01149425287356,102,145,191
-series_3,60.17130620985011,76.24521072796935,102,145,191
-series_3,64.45396145610277,78.9272030651341,102,145,191
-series_3,59.314775160599574,80.45977011494253,102,145,191
-series_3,60.38543897216274,83.9080459770115,102,145,191
-series_4,88.86509635974305,3.8314176245210727,185,204,223
-series_4,89.07922912205566,6.513409961685824,185,204,223
-series_4,78.15845824411134,5.747126436781609,185,204,223
-series_4,89.93576017130621,7.662835249042145,185,204,223
-series_4,90.14989293361884,10.727969348659004,185,204,223
-series_4,89.72162740899357,9.195402298850574,185,204,223
-series_4,92.50535331905782,10.344827586206897,185,204,223
-series_4,82.22698072805139,12.643678160919542,185,204,223
-series_4,80.72805139186295,12.643678160919542,185,204,223
-series_4,85.01070663811564,13.409961685823754,185,204,223
-series_4,49.892933618843685,27.586206896551722,185,204,223
-series_4,69.80728051391864,34.48275862068966,185,204,223
-series_4,60.38543897216274,34.86590038314176,185,204,223
-series_4,69.80728051391864,36.015325670498086,185,204,223
-series_4,68.52248394004282,33.71647509578544,185,204,223
-series_4,59.52890792291221,36.39846743295019,185,204,223
-series_4,67.23768736616702,40.61302681992337,185,204,223
-series_4,77.73019271948608,41.7624521072797,185,204,223
-series_4,72.37687366167023,42.911877394636015,185,204,223
-series_4,76.87366167023555,42.911877394636015,185,204,223
-series_4,70.8779443254818,42.911877394636015,185,204,223
-series_4,85.01070663811564,43.67816091954023,185,204,223
-series_4,77.51605995717344,43.67816091954023,185,204,223
-series_4,80.08565310492506,42.5287356321839,185,204,223
-series_4,71.5203426124197,44.06130268199234,185,204,223
-series_4,60.38543897216274,39.84674329501915,185,204,223
-series_4,80.94218415417559,44.44444444444444,185,204,223
-series_4,66.59528907922912,44.827586206896555,185,204,223
-series_4,84.36830835117773,45.21072796934866,185,204,223
-series_4,79.44325481798715,44.44444444444444,185,204,223
-series_4,59.743040685224834,44.827586206896555,185,204,223
-series_4,65.31049250535332,44.827586206896555,185,204,223
-series_4,79.87152034261243,45.593869731800766,185,204,223
-series_4,64.45396145610277,45.97701149425287,185,204,223
-series_4,59.95717344753747,46.36015325670498,185,204,223
-series_4,63.16916488222698,45.97701149425287,185,204,223
-series_4,72.1627408993576,45.97701149425287,185,204,223
-series_4,64.66809421841542,47.509578544061306,185,204,223
-series_4,76.017130620985,47.89272030651341,185,204,223
-series_4,70.2355460385439,47.89272030651341,185,204,223
-series_4,74.7323340471092,44.06130268199234,185,204,223
-series_4,63.16916488222698,47.89272030651341,185,204,223
-series_4,61.02783725910065,46.74329501915709,185,204,223
-series_4,73.01927194860814,48.65900383141762,185,204,223
-series_4,70.8779443254818,49.042145593869726,185,204,223
-series_4,74.51820128479658,49.42528735632184,185,204,223
-series_4,69.80728051391864,49.42528735632184,185,204,223
-series_4,76.44539614561027,49.42528735632184,185,204,223
-series_4,67.6659528907923,48.275862068965516,185,204,223
-series_4,59.743040685224834,49.042145593869726,185,204,223
-series_4,73.23340471092077,49.808429118773944,185,204,223
-series_4,69.80728051391864,51.34099616858238,185,204,223
-series_4,72.1627408993576,51.34099616858238,185,204,223
-series_4,60.38543897216274,52.10727969348659,185,204,223
-series_4,73.23340471092077,52.490421455938694,185,204,223
-series_4,75.16059957173448,52.490421455938694,185,204,223
-series_4,62.31263383297645,50.95785440613027,185,204,223
-series_4,78.80085653104925,52.490421455938694,185,204,223
-series_4,64.66809421841542,52.10727969348659,185,204,223
-series_4,60.38543897216274,53.63984674329502,185,204,223
-series_4,76.65952890792292,52.10727969348659,185,204,223
-series_4,70.2355460385439,53.63984674329502,185,204,223
-series_4,65.73875802997858,54.02298850574713,185,204,223
-series_4,76.87366167023555,55.172413793103445,185,204,223
-series_4,75.58886509635975,55.172413793103445,185,204,223
-series_4,64.66809421841542,54.78927203065134,185,204,223
-series_4,61.24197002141327,55.172413793103445,185,204,223
-series_4,71.73447537473233,55.172413793103445,185,204,223
-series_4,63.811563169164884,55.55555555555556,185,204,223
-series_4,60.17130620985011,55.55555555555556,185,204,223
-series_4,74.30406852248393,55.938697318007655,185,204,223
-series_4,68.09421841541756,56.70498084291188,185,204,223
-series_4,75.58886509635975,56.32183908045977,185,204,223
-series_4,63.38329764453962,56.70498084291188,185,204,223
-series_4,61.67023554603854,57.08812260536399,185,204,223
-series_4,75.16059957173448,57.8544061302682,185,204,223
-series_4,71.73447537473233,57.8544061302682,185,204,223
-series_4,70.66381156316916,57.8544061302682,185,204,223
-series_4,67.88008565310493,54.02298850574713,185,204,223
-series_4,73.01927194860814,58.620689655172406,185,204,223
-series_4,69.37901498929337,57.8544061302682,185,204,223
-series_4,68.52248394004282,57.47126436781609,185,204,223
-series_4,63.16916488222698,58.23754789272031,185,204,223
-series_4,59.743040685224834,57.8544061302682,185,204,223
-series_4,73.44753747323341,55.938697318007655,185,204,223
-series_4,68.73661670235546,59.38697318007663,185,204,223
-series_4,71.73447537473233,59.38697318007663,185,204,223
-series_4,62.74089935760171,59.77011494252874,185,204,223
-series_4,61.88436830835118,59.77011494252874,185,204,223
-series_4,70.66381156316916,59.77011494252874,185,204,223
-series_4,75.16059957173448,59.38697318007663,185,204,223
-series_4,64.45396145610277,59.38697318007663,185,204,223
-series_4,59.95717344753747,60.53639846743295,185,204,223
-series_4,69.80728051391864,61.30268199233716,185,204,223
-series_4,72.80513918629549,61.68582375478927,185,204,223
-series_4,69.16488222698072,60.15325670498084,185,204,223
-series_4,74.51820128479658,61.68582375478927,185,204,223
-series_4,61.88436830835118,61.68582375478927,185,204,223
-series_4,65.73875802997858,62.45210727969349,185,204,223
-series_4,60.38543897216274,62.83524904214559,185,204,223
-series_4,71.5203426124197,63.2183908045977,185,204,223
-series_4,63.597430406852254,62.83524904214559,185,204,223
-series_4,62.098501070663815,63.2183908045977,185,204,223
-series_4,67.02355460385438,62.06896551724138,185,204,223
-series_4,69.37901498929337,63.984674329501914,185,204,223
-series_4,73.87580299785867,63.601532567049816,185,204,223
-series_4,72.1627408993576,63.984674329501914,185,204,223
-series_4,66.38115631691649,63.984674329501914,185,204,223
-series_4,61.02783725910065,64.36781609195403,185,204,223
-series_4,64.66809421841542,63.601532567049816,185,204,223
-series_4,62.526766595289075,64.36781609195403,185,204,223
-series_4,59.743040685224834,64.36781609195403,185,204,223
-series_4,70.2355460385439,64.36781609195403,185,204,223
-series_4,72.80513918629549,65.13409961685824,185,204,223
-series_4,63.38329764453962,65.13409961685824,185,204,223
-series_4,61.24197002141327,65.51724137931035,185,204,223
-series_4,59.52890792291221,65.90038314176245,185,204,223
-series_4,62.74089935760171,66.66666666666666,185,204,223
-series_4,60.599571734475376,65.90038314176245,185,204,223
-series_4,67.02355460385438,65.90038314176245,185,204,223
-series_4,71.30620985010707,67.04980842911877,185,204,223
-series_4,68.52248394004282,66.66666666666666,185,204,223
-series_4,64.88222698072805,66.66666666666666,185,204,223
-series_4,68.52248394004282,67.81609195402298,185,204,223
-series_4,64.23982869379014,67.81609195402298,185,204,223
-series_4,68.3083511777302,69.73180076628353,185,204,223
-series_4,59.95717344753747,69.73180076628353,185,204,223
-series_4,73.01927194860814,69.34865900383141,185,204,223
-series_4,67.45182012847965,70.11494252873564,185,204,223
-series_4,66.38115631691649,69.73180076628353,185,204,223
-series_4,63.597430406852254,70.11494252873564,185,204,223
-series_4,68.09421841541756,71.26436781609196,185,204,223
-series_4,59.743040685224834,71.26436781609196,185,204,223
-series_4,61.24197002141327,70.49808429118774,185,204,223
-series_4,59.52890792291221,73.18007662835248,185,204,223
-series_4,69.593147751606,72.79693486590038,185,204,223
-series_4,64.66809421841542,73.5632183908046,185,204,223
-series_4,63.38329764453962,74.32950191570882,185,204,223
-series_4,72.1627408993576,72.79693486590038,185,204,223
-series_4,62.74089935760171,74.71264367816092,185,204,223
-series_4,60.17130620985011,74.71264367816092,185,204,223
-series_4,73.66167023554604,75.47892720306514,185,204,223
-series_4,59.314775160599574,76.24521072796935,185,204,223
-series_4,73.87580299785867,76.62835249042146,185,204,223
-series_4,72.80513918629549,76.62835249042146,185,204,223
-series_4,67.6659528907923,75.47892720306514,185,204,223
-series_4,61.67023554603854,75.47892720306514,185,204,223
-series_4,63.811563169164884,79.6934865900383,185,204,223
-series_4,65.52462526766595,78.544061302682,185,204,223
-series_4,59.95717344753747,83.5249042145594,185,204,223
-series_4,59.95717344753747,88.50574712643679,185,204,223
-series_4,60.38543897216274,99.23371647509579,185,204,223
-series_4,59.52890792291221,99.23371647509579,185,204,223
+series,x_value,y_value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,77.73019271948608,5.363984674329502,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,92.93361884368309,9.578544061302683,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,92.50535331905782,11.11111111111111,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,81.5845824411135,12.260536398467432,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,68.95074946466809,31.800766283524908,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,68.3083511777302,34.099616858237546,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.95717344753747,35.63218390804598,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.95717344753747,40.61302681992337,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.314775160599574,42.911877394636015,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,71.5203426124197,43.67816091954023,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,84.1541755888651,44.827586206896555,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.37687366167023,45.97701149425287,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,73.23340471092077,45.97701149425287,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.1627408993576,47.12643678160919,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,69.16488222698072,47.89272030651341,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,70.66381156316916,47.12643678160919,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.81370449678801,47.12643678160919,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,74.94646680942184,45.97701149425287,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.80942184154176,48.65900383141762,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.314775160599574,50.95785440613027,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,76.87366167023555,51.34099616858238,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,64.88222698072805,53.25670498084292,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,74.7323340471092,53.63984674329502,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,73.44753747323341,50.95785440613027,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,68.95074946466809,53.25670498084292,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,76.23126338329764,54.406130268199234,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,74.7323340471092,54.78927203065134,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,73.44753747323341,54.78927203065134,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,69.593147751606,55.172413793103445,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,64.23982869379014,55.172413793103445,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,55.938697318007655,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,73.44753747323341,55.938697318007655,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,64.02569593147751,49.808429118773944,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,61.67023554603854,56.70498084291188,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.599571734475376,56.32183908045977,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.80942184154176,54.406130268199234,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,57.8544061302682,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.38115631691649,58.23754789272031,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.17130620985011,58.620689655172406,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,61.02783725910065,59.00383141762452,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,65.31049250535332,59.77011494252874,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.17130620985011,59.77011494252874,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,71.73447537473233,61.30268199233716,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,70.44967880085653,57.47126436781609,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,64.02569593147751,59.00383141762452,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.38115631691649,61.30268199233716,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,74.08993576017131,60.15325670498084,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,67.6659528907923,62.45210727969349,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,65.52462526766595,63.601532567049816,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,61.24197002141327,62.83524904214559,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.743040685224834,63.601532567049816,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.1627408993576,63.2183908045977,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,62.526766595289075,65.13409961685824,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,73.44753747323341,64.75095785440614,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,71.5203426124197,65.51724137931035,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,65.95289079229121,65.90038314176245,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.17130620985011,65.51724137931035,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.59100642398288,66.28352490421456,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,3.2119914346895073,26.053639846743295,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,69.16488222698072,64.36781609195403,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,70.66381156316916,68.19923371647509,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,61.02783725910065,67.43295019157088,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,69.34865900383141,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,25.69593147751606,27.969348659003828,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.80942184154176,68.5823754789272,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,63.38329764453962,70.88122605363985,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.1627408993576,71.26436781609196,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,62.526766595289075,68.19923371647509,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.314775160599574,73.18007662835248,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,68.3083511777302,71.26436781609196,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,67.02355460385438,75.47892720306514,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,72.37687366167023,74.71264367816092,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,67.88008565310493,76.62835249042146,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,66.16702355460386,77.39463601532567,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,79.3103448275862,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,61.88436830835118,75.47892720306514,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,65.52462526766595,80.07662835249042,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.95717344753747,80.84291187739464,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,83.5249042145594,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.95717344753747,84.2911877394636,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.17130620985011,87.73946360153256,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.52890792291221,88.88888888888889,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,60.38543897216274,99.23371647509579,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_0,59.314775160599574,99.23371647509579,145,179,213,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_1,34.26124197002141,26.81992337164751,215,138,148,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_1,11.563169164882227,36.39846743295019,215,138,148,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_2,50.32119914346895,34.86590038314176,98,86,94,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.95717344753747,36.015325670498086,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,60.38543897216274,40.229885057471265,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.314775160599574,41.7624521072797,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.95717344753747,41.7624521072797,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.743040685224834,43.67816091954023,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,72.59100642398288,45.593869731800766,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,64.45396145610277,44.827586206896555,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,66.16702355460386,46.36015325670498,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,64.02569593147751,46.74329501915709,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,60.599571734475376,47.12643678160919,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,73.87580299785867,47.89272030651341,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,64.23982869379014,48.65900383141762,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,73.01927194860814,50.57471264367817,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,73.66167023554604,50.57471264367817,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,72.59100642398288,51.724137931034484,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,75.80299785867237,54.02298850574713,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,69.593147751606,54.02298850574713,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,68.3083511777302,53.25670498084292,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,66.16702355460386,52.10727969348659,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,67.45182012847965,55.172413793103445,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,68.3083511777302,55.172413793103445,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,66.38115631691649,55.55555555555556,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,74.7323340471092,59.00383141762452,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,65.31049250535332,61.30268199233716,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,64.66809421841542,62.83524904214559,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,66.38115631691649,64.75095785440614,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,61.88436830835118,56.70498084291188,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,67.02355460385438,65.90038314176245,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,71.30620985010707,61.68582375478927,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,3.2119914346895073,66.66666666666666,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,70.8779443254818,66.28352490421456,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,70.44967880085653,67.43295019157088,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,65.73875802997858,66.66666666666666,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,62.95503211991434,65.13409961685824,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,25.910064239828696,69.73180076628353,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,66.80942184154176,68.96551724137932,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.314775160599574,68.96551724137932,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,68.52248394004282,68.96551724137932,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,60.38543897216274,70.49808429118774,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,62.31263383297645,72.79693486590038,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,63.16916488222698,73.18007662835248,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,73.01927194860814,75.47892720306514,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,63.16916488222698,77.01149425287356,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,60.17130620985011,76.24521072796935,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,64.45396145610277,78.9272030651341,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,59.314775160599574,80.45977011494253,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_3,60.38543897216274,83.9080459770115,102,145,191,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,88.86509635974305,3.8314176245210727,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,89.07922912205566,6.513409961685824,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,78.15845824411134,5.747126436781609,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,89.93576017130621,7.662835249042145,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,90.14989293361884,10.727969348659004,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,89.72162740899357,9.195402298850574,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,92.50535331905782,10.344827586206897,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,82.22698072805139,12.643678160919542,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,80.72805139186295,12.643678160919542,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,85.01070663811564,13.409961685823754,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,49.892933618843685,27.586206896551722,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.80728051391864,34.48275862068966,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,34.86590038314176,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.80728051391864,36.015325670498086,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.52248394004282,33.71647509578544,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.52890792291221,36.39846743295019,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.23768736616702,40.61302681992337,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,77.73019271948608,41.7624521072797,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.37687366167023,42.911877394636015,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,76.87366167023555,42.911877394636015,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.8779443254818,42.911877394636015,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,85.01070663811564,43.67816091954023,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,77.51605995717344,43.67816091954023,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,80.08565310492506,42.5287356321839,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.5203426124197,44.06130268199234,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,39.84674329501915,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,80.94218415417559,44.44444444444444,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,66.59528907922912,44.827586206896555,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,84.36830835117773,45.21072796934866,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,79.44325481798715,44.44444444444444,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.743040685224834,44.827586206896555,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,65.31049250535332,44.827586206896555,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,79.87152034261243,45.593869731800766,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.45396145610277,45.97701149425287,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.95717344753747,46.36015325670498,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.16916488222698,45.97701149425287,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.1627408993576,45.97701149425287,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.66809421841542,47.509578544061306,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,76.017130620985,47.89272030651341,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.2355460385439,47.89272030651341,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,74.7323340471092,44.06130268199234,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.16916488222698,47.89272030651341,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.02783725910065,46.74329501915709,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.01927194860814,48.65900383141762,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.8779443254818,49.042145593869726,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,74.51820128479658,49.42528735632184,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.80728051391864,49.42528735632184,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,76.44539614561027,49.42528735632184,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.6659528907923,48.275862068965516,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.743040685224834,49.042145593869726,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.23340471092077,49.808429118773944,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.80728051391864,51.34099616858238,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.1627408993576,51.34099616858238,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,52.10727969348659,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.23340471092077,52.490421455938694,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,75.16059957173448,52.490421455938694,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.31263383297645,50.95785440613027,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,78.80085653104925,52.490421455938694,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.66809421841542,52.10727969348659,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,53.63984674329502,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,76.65952890792292,52.10727969348659,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.2355460385439,53.63984674329502,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,65.73875802997858,54.02298850574713,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,76.87366167023555,55.172413793103445,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,75.58886509635975,55.172413793103445,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.66809421841542,54.78927203065134,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.24197002141327,55.172413793103445,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.73447537473233,55.172413793103445,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.811563169164884,55.55555555555556,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.17130620985011,55.55555555555556,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,74.30406852248393,55.938697318007655,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.09421841541756,56.70498084291188,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,75.58886509635975,56.32183908045977,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.38329764453962,56.70498084291188,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.67023554603854,57.08812260536399,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,75.16059957173448,57.8544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.73447537473233,57.8544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.66381156316916,57.8544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.88008565310493,54.02298850574713,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.01927194860814,58.620689655172406,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.37901498929337,57.8544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.52248394004282,57.47126436781609,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.16916488222698,58.23754789272031,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.743040685224834,57.8544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.44753747323341,55.938697318007655,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.73661670235546,59.38697318007663,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.73447537473233,59.38697318007663,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.74089935760171,59.77011494252874,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.88436830835118,59.77011494252874,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.66381156316916,59.77011494252874,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,75.16059957173448,59.38697318007663,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.45396145610277,59.38697318007663,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.95717344753747,60.53639846743295,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.80728051391864,61.30268199233716,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.80513918629549,61.68582375478927,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.16488222698072,60.15325670498084,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,74.51820128479658,61.68582375478927,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.88436830835118,61.68582375478927,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,65.73875802997858,62.45210727969349,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,62.83524904214559,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.5203426124197,63.2183908045977,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.597430406852254,62.83524904214559,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.098501070663815,63.2183908045977,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.02355460385438,62.06896551724138,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.37901498929337,63.984674329501914,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.87580299785867,63.601532567049816,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.1627408993576,63.984674329501914,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,66.38115631691649,63.984674329501914,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.02783725910065,64.36781609195403,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.66809421841542,63.601532567049816,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.526766595289075,64.36781609195403,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.743040685224834,64.36781609195403,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,70.2355460385439,64.36781609195403,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.80513918629549,65.13409961685824,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.38329764453962,65.13409961685824,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.24197002141327,65.51724137931035,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.52890792291221,65.90038314176245,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.74089935760171,66.66666666666666,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.599571734475376,65.90038314176245,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.02355460385438,65.90038314176245,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,71.30620985010707,67.04980842911877,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.52248394004282,66.66666666666666,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.88222698072805,66.66666666666666,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.52248394004282,67.81609195402298,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.23982869379014,67.81609195402298,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.3083511777302,69.73180076628353,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.95717344753747,69.73180076628353,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.01927194860814,69.34865900383141,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.45182012847965,70.11494252873564,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,66.38115631691649,69.73180076628353,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.597430406852254,70.11494252873564,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,68.09421841541756,71.26436781609196,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.743040685224834,71.26436781609196,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.24197002141327,70.49808429118774,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.52890792291221,73.18007662835248,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,69.593147751606,72.79693486590038,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,64.66809421841542,73.5632183908046,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.38329764453962,74.32950191570882,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.1627408993576,72.79693486590038,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,62.74089935760171,74.71264367816092,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.17130620985011,74.71264367816092,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.66167023554604,75.47892720306514,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.314775160599574,76.24521072796935,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,73.87580299785867,76.62835249042146,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,72.80513918629549,76.62835249042146,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,67.6659528907923,75.47892720306514,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,61.67023554603854,75.47892720306514,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,63.811563169164884,79.6934865900383,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,65.52462526766595,78.544061302682,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.95717344753747,83.5249042145594,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.95717344753747,88.50574712643679,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,60.38543897216274,99.23371647509579,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
+series_4,59.52890792291221,99.23371647509579,185,204,223,Tax Revenue by Development Level and GDP Per Capita,Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita,,
