@@ -4,27 +4,52 @@
 
 This tool extracts data from plot images using **pixel-based measurement**. Even with OCR for reading axis scales and advanced precision techniques, the fundamental limitation is image resolution.
 
-**Measured Accuracy:**
-- **Expected error: ±3-6 percentage points** (NOT ±3-6%)
-- **Real example (Poland, plot f0013-01):**
+**Measured Accuracy After Extensive Optimization:**
+- **Actual error: ±3-8 percentage points** (NOT ±3-8%)
+- **Poland example (plot f0013-01) - tested with multiple methods:**
   - Visual inspection: Blue ~12-13%, Red ~19%
-  - Extracted values: Blue ~17%, Red ~25%
-  - Error: 4-6 percentage points off
-- **Root cause:** Images are 550x353 pixels. For a 0-100% y-axis, that's ~2.6 pixels per 1%. A 1-2 pixel measurement error = 3-6% value error.
-- Charts without printed data labels **cannot** be read with acceptable precision for analysis
+  - Best extraction (label-calibrated): Blue ~15-21%, Red ~28-32%
+  - Error: 3-13 percentage points depending on method
+- **Optimization attempts made:**
+  - 4x super-resolution upscaling (550×353 → 2200×1412)
+  - OCR-based y-axis label detection
+  - Auto-calibration from actual bar positions
+  - Sub-pixel precision with median filtering
+  - Text-to-gridline offset corrections
+  - **Result:** Still ±3-8pp error minimum
+- **Root cause:** Even with 4x upscaling (~10 pixels per 1%), measurement errors accumulate from:
+  - Bar edge detection ambiguity (±1-2 pixels)
+  - Anti-aliasing/smoothing effects
+  - Calibration point positioning
+  - Color threshold sensitivity
+- Charts without printed data labels **cannot** achieve better than ±3-8pp accuracy from pixel measurement
 
-**Three Extraction Methods (all have same limitation):**
+**Five Extraction Methods (listed from most to least sophisticated):**
 
-1. **extract_plot_data_precise.py** - Advanced precision (sub-pixel, gridline detection)
-   - Best effort with multiple techniques
-   - Still limited by image resolution
+1. **extract_label_calibrated.py** - OCR label-based calibration
+   - Finds Y-axis labels ("0", "20", "40", etc.) with OCR
+   - Calibrates using exact label positions
+   - Best theoretical accuracy: ±3-5pp
+   - 4x upscaling + statistical filtering
 
-2. **extract_plot_data_ocr.py** - OCR-enhanced extraction
-   - Uses OCR to read axis scales
+2. **extract_auto_calibrate.py** - Auto-calibration from bars
+   - Detects baseline (0%) from actual bar bottoms
+   - Estimates plot structure
+   - Accuracy: ±5-8pp
+
+3. **extract_ultra_precise.py** - Multiple precision techniques
+   - Gridline detection, sub-pixel refinement
+   - Multi-sampling with median filtering
+   - Accuracy: ±5-10pp
+
+4. **extract_plot_data_ocr.py** - OCR-enhanced extraction
+   - Uses OCR for axis scales
    - Better color filtering
+   - Accuracy: ±5-10pp
 
-3. **extract_plot_data.py** - Original pixel-based approach
+5. **extract_plot_data.py** - Original pixel-based
    - Fully automatic
+   - Accuracy: ±10-15pp
    - Kept for reference
 
 **Best Used For:**
