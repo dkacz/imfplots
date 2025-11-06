@@ -277,23 +277,57 @@ class PlotDataExtractor:
         if self.metadata:
             result['metadata'] = self.metadata
 
-            # Add country/category labels to data if available
+            # Add country/category labels and actual values
+            y_range = self.metadata.get('y_axis', {}).get('range', [])
+            y_unit = self.metadata.get('y_axis', {}).get('unit', '')
+
             if detected_type == 'bar':
                 countries = self.metadata.get('x_axis', {}).get('countries', [])
                 categories = self.metadata.get('x_axis', {}).get('categories', [])
 
-                if countries or categories:
-                    for series_name, series_info in data.items():
+                for series_name, series_info in data.items():
+                    # Add country/category labels
+                    if countries or categories:
                         x_positions = series_info.get('x_positions', [])
                         labels = []
+
+                        # Map x_positions (0-99) to country/category indices
                         for pos in x_positions:
-                            if countries and pos < len(countries):
-                                labels.append(countries[pos])
-                            elif categories and pos < len(categories):
-                                labels.append(categories[pos])
+                            if countries:
+                                country_idx = int(pos * len(countries) / 100.0)
+                                if 0 <= country_idx < len(countries):
+                                    labels.append(countries[country_idx])
+                                else:
+                                    labels.append('')
+                            elif categories:
+                                category_idx = int(pos * len(categories) / 100.0)
+                                if 0 <= category_idx < len(categories):
+                                    labels.append(categories[category_idx])
+                                else:
+                                    labels.append('')
                             else:
                                 labels.append('')
                         series_info['labels'] = labels
+
+                    # Add actual values converted from normalized
+                    if len(y_range) == 2 and 'values' in series_info:
+                        y_min, y_max = y_range
+                        normalized_values = series_info['values']
+                        actual_values = [y_min + (v / 100.0) * (y_max - y_min)
+                                       for v in normalized_values]
+                        series_info['values_actual'] = actual_values
+                        series_info['values_unit'] = y_unit
+
+            elif detected_type == 'scatter':
+                for series_name, series_info in data.items():
+                    # Add actual y values for scatter plots
+                    if len(y_range) == 2 and 'y_values' in series_info:
+                        y_min, y_max = y_range
+                        normalized_values = series_info['y_values']
+                        actual_values = [y_min + (v / 100.0) * (y_max - y_min)
+                                       for v in normalized_values]
+                        series_info['y_values_actual'] = actual_values
+                        series_info['y_values_unit'] = y_unit
 
         return result
 
@@ -307,6 +341,8 @@ class PlotDataExtractor:
         description = metadata.get('description', '')
         x_label = metadata.get('x_axis', {}).get('label', '')
         y_label = metadata.get('y_axis', {}).get('label', '')
+        y_unit = metadata.get('y_axis', {}).get('unit', '')
+        y_range = metadata.get('y_axis', {}).get('range', [])
 
         # Get country/category mappings if available
         countries = metadata.get('x_axis', {}).get('countries', [])
@@ -317,14 +353,38 @@ class PlotDataExtractor:
             all_series = []
             for series_name, series_info in plot_data.items():
                 x_positions = series_info.get('x_positions', [])
+                normalized_values = series_info.get('values', [])
+
+                # Convert normalized values (0-100) to actual y-axis values
+                actual_values = []
+                if len(y_range) == 2:
+                    y_min, y_max = y_range
+                    for norm_val in normalized_values:
+                        # Formula: actual = y_min + (normalized/100) * (y_max - y_min)
+                        actual = y_min + (norm_val / 100.0) * (y_max - y_min)
+                        actual_values.append(actual)
+                else:
+                    # No range available, use normalized values
+                    actual_values = normalized_values
 
                 # Map x_positions to country/category names
+                # x_positions are pixel positions (0-99), not direct indices
                 x_labels = []
                 for pos in x_positions:
-                    if countries and pos < len(countries):
-                        x_labels.append(countries[pos])
-                    elif categories and pos < len(categories):
-                        x_labels.append(categories[pos])
+                    if countries:
+                        # Map x_position (0-99) to country index
+                        country_idx = int(pos * len(countries) / 100.0)
+                        if 0 <= country_idx < len(countries):
+                            x_labels.append(countries[country_idx])
+                        else:
+                            x_labels.append('')
+                    elif categories:
+                        # Map x_position to category index
+                        category_idx = int(pos * len(categories) / 100.0)
+                        if 0 <= category_idx < len(categories):
+                            x_labels.append(categories[category_idx])
+                        else:
+                            x_labels.append('')
                     else:
                         x_labels.append('')
 
@@ -332,7 +392,8 @@ class PlotDataExtractor:
                     'series': series_name,
                     'x_position': x_positions,
                     'country': x_labels if countries or categories else [''] * len(x_positions),
-                    'value': series_info.get('values', []),
+                    'value': actual_values,
+                    'value_unit': y_unit if y_unit else '',
                     'color_r': series_info['color'][0],
                     'color_g': series_info['color'][1],
                     'color_b': series_info['color'][2],
@@ -350,10 +411,26 @@ class PlotDataExtractor:
             # Create DataFrame for scatter plot
             all_series = []
             for series_name, series_info in plot_data.items():
+                x_normalized = series_info.get('x_values', [])
+                y_normalized = series_info.get('y_values', [])
+
+                # Convert normalized values to actual axis values
+                x_actual = x_normalized  # Keep normalized for now, x-axis often categorical
+                y_actual = []
+
+                if len(y_range) == 2:
+                    y_min, y_max = y_range
+                    for norm_val in y_normalized:
+                        actual = y_min + (norm_val / 100.0) * (y_max - y_min)
+                        y_actual.append(actual)
+                else:
+                    y_actual = y_normalized
+
                 df = pd.DataFrame({
                     'series': series_name,
-                    'x_value': series_info.get('x_values', []),
-                    'y_value': series_info.get('y_values', []),
+                    'x_value': x_actual,
+                    'y_value': y_actual,
+                    'y_value_unit': y_unit if y_unit else '',
                     'color_r': series_info['color'][0],
                     'color_g': series_info['color'][1],
                     'color_b': series_info['color'][2],
