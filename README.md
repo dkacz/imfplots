@@ -1,27 +1,43 @@
 # IMF Plot Data Extractor
 
-⚠️ **IMPORTANT: Accuracy Limitations**
+⚠️ **CRITICAL: Precision Limitations**
 
-This tool uses **pixel-based computer vision** to extract data from plot images. While it automates the extraction process, the results are **APPROXIMATE** and should be verified for accuracy before use in analysis.
+This tool extracts data from plot images using **pixel-based measurement**. Even with OCR for reading axis scales and advanced precision techniques, the fundamental limitation is image resolution.
 
-**Known Limitations:**
-- Values may be off by several percentage points
-- Mixed charts (bars + scatter) may produce multiple/incorrect detections
-- Complex or overlapping plots reduce accuracy
-- Works best for simple, well-separated bar charts
-- **Manual verification strongly recommended**
+**Measured Accuracy:**
+- **Expected error: ±3-6 percentage points** (NOT ±3-6%)
+- **Real example (Poland, plot f0013-01):**
+  - Visual inspection: Blue ~12-13%, Red ~19%
+  - Extracted values: Blue ~17%, Red ~25%
+  - Error: 4-6 percentage points off
+- **Root cause:** Images are 550x353 pixels. For a 0-100% y-axis, that's ~2.6 pixels per 1%. A 1-2 pixel measurement error = 3-6% value error.
+- Charts without printed data labels **cannot** be read with acceptable precision for analysis
+
+**Three Extraction Methods (all have same limitation):**
+
+1. **extract_plot_data_precise.py** - Advanced precision (sub-pixel, gridline detection)
+   - Best effort with multiple techniques
+   - Still limited by image resolution
+
+2. **extract_plot_data_ocr.py** - OCR-enhanced extraction
+   - Uses OCR to read axis scales
+   - Better color filtering
+
+3. **extract_plot_data.py** - Original pixel-based approach
+   - Fully automatic
+   - Kept for reference
 
 **Best Used For:**
 - Quick exploratory data extraction
-- Getting approximate trends
-- Identifying patterns across many plots
+- Identifying trends and patterns
+- Relative comparisons across countries/categories
 
 **NOT Recommended For:**
 - Precise numeric analysis requiring exact values
-- Publication or citation of extracted numbers
-- Critical economic decisions
+- Publication or citation without verification
+- Critical decisions requiring accuracy
 
-For precise values, consider manual extraction or OCR-based tools.
+**For Precise Values:** Locate the original data source (e.g., IMF working papers, data tables) or perform manual annotation.
 
 ---
 

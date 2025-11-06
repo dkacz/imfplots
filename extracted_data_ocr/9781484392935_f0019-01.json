@@ -1,0 +1,449 @@
+{
+  "data_points": [
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 8,
+      "value": -3.59,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 9,
+      "value": -3.32,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 12,
+      "value": -2.86,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 15,
+      "value": -2.52,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 18,
+      "value": -2.0,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 21,
+      "value": -1.5699999999999998,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 24,
+      "value": -1.09,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 27,
+      "value": -0.75,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 32,
+      "value": -0.23,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 30,
+      "value": -0.23,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 33,
+      "value": -0.27,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 33,
+      "value": 0.23,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 37,
+      "value": 0.25,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 36,
+      "value": 0.635,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 39,
+      "value": 0.73,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 39,
+      "value": 1.0,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 42,
+      "value": 1.32,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 43,
+      "value": 1.5699999999999998,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 45,
+      "value": 1.86,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 45,
+      "value": 1.885,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 48,
+      "value": 2.64,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 49,
+      "value": 2.41,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 51,
+      "value": 2.77,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 51,
+      "value": 2.86,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 54,
+      "value": 3.05,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 54,
+      "value": 3.27,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 57,
+      "value": 3.77,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 57,
+      "value": 3.66,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 60,
+      "value": 3.91,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 60,
+      "value": 4.14,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 63,
+      "value": 4.59,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 67,
+      "value": 4.95,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 66,
+      "value": 5.02,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 69,
+      "value": 4.95,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 69,
+      "value": 5.45,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 73,
+      "value": 5.98,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 75,
+      "value": 6.36,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 79,
+      "value": 6.885,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 83,
+      "value": 7.32,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 81,
+      "value": 7.16,
+      "color_r": 192,
+      "color_g": 85,
+      "color_b": 101
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 84,
+      "value": 7.3149999999999995,
+      "color_r": 74,
+      "color_g": 126,
+      "color_b": 184
+    }
+  ],
+  "y_axis_values": [
+    -5.0,
+    -2.0,
+    1.0,
+    4.0,
+    7.0,
+    10.0
+  ],
+  "ocr_x_labels": [
+    "GDP"
+  ],
+  "metadata": {
+    "title": "Adjusted vs Unadjusted DBCFT Revenue",
+    "description": "Scatter plot comparing adjusted DBCFT revenue with unadjusted DBCFT revenue by country",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Adjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -5,
+        10
+      ]
+    },
+    "y_axis": {
+      "label": "Unadjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -5,
+        10
+      ]
+    },
+    "series": {
+      "Countries": {
+        "color": "blue",
+        "marker": "circle_outline",
+        "description": "Country data points"
+      }
+    },
+    "trend_line": {
+      "present": true,
+      "color": "red",
+      "description": "45-degree reference line showing perfect correlation"
+    },
+    "labeled_countries": [
+      "MEX",
+      "USA",
+      "BEL",
+      "KOR",
+      "IRL",
+      "CYP",
+      "NLD",
+      "SWE",
+      "CHE",
+      "GRC",
+      "LUX"
+    ],
+    "notes": "Most countries cluster near the 45-degree line, indicating adjustments have minimal impact; LUX is a notable outlier"
+  },
+  "plot_area": [
+    46,
+    0,
+    550,
+    330
+  ],
+  "colors": [
+    {
+      "r": 184,
+      "g": 126,
+      "b": 74
+    },
+    {
+      "r": 101,
+      "g": 85,
+      "b": 192
+    }
+  ]
+}

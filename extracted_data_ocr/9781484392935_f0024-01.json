@@ -1,0 +1,79 @@
+{
+  "data_points": [],
+  "y_axis_values": [
+    0.0,
+    0.16,
+    0.32,
+    0.48,
+    0.64,
+    0.8
+  ],
+  "ocr_x_labels": [
+    "ERE"
+  ],
+  "metadata": {
+    "title": "Loss/Sale Ratio Average 2005-2014 by Country",
+    "description": "Bar chart showing ratio of total firm losses to total firm sales by country",
+    "plot_type": "bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": [
+        "Japan",
+        "Finland",
+        "Australia",
+        "Germany",
+        "Belgium",
+        "Poland",
+        "Spain",
+        "Sweden",
+        "Czech Republic",
+        "France",
+        "Russia",
+        "Estonia",
+        "Korea",
+        "Italy",
+        "Mexico",
+        "Portugal",
+        "Romania",
+        "Slovenia",
+        "Ukraine",
+        "Greece",
+        "Serbia"
+      ]
+    },
+    "y_axis": {
+      "label": "Ratio of total firm losses/total firm sales",
+      "unit": "ratio",
+      "range": [
+        0,
+        0.8
+      ]
+    },
+    "series": {
+      "Loss/sale ratio": {
+        "color": "dark_blue",
+        "description": "Average ratio of losses to sales from 2005-2014"
+      }
+    },
+    "notes": "Serbia shows highest loss/sale ratio at approximately 0.7; Japan shows lowest at approximately 0.1"
+  },
+  "plot_area": [
+    50,
+    51,
+    550,
+    261
+  ],
+  "colors": [
+    {
+      "r": 109,
+      "g": 69,
+      "b": 24
+    },
+    {
+      "r": 139,
+      "g": 117,
+      "b": 93
+    }
+  ]
+}

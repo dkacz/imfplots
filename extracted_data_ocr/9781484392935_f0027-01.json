@@ -1,0 +1,116 @@
+{
+  "data_points": [],
+  "y_axis_values": [
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0
+  ],
+  "ocr_x_labels": [
+    "RSG",
+    "NL",
+    "TIE",
+    "ECE",
+    "PS"
+  ],
+  "metadata": {
+    "title": "Decline in MNE Tax Revenue by Country (Four Countries)",
+    "description": "Four-panel time series showing decline in MNE (Multinational Enterprise) tax revenue as percent of tax revenue",
+    "plot_type": "multi_panel_time_series",
+    "panels": {
+      "United States": {
+        "x_axis": {
+          "label": "Year",
+          "range": [
+            "1982",
+            "2014"
+          ]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [
+            0,
+            40
+          ]
+        }
+      },
+      "United Kingdom": {
+        "x_axis": {
+          "label": "Year",
+          "range": [
+            "1982",
+            "2014"
+          ]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [
+            0,
+            40
+          ]
+        }
+      },
+      "Brazil": {
+        "x_axis": {
+          "label": "Year",
+          "range": [
+            "1982",
+            "2014"
+          ]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [
+            0,
+            40
+          ]
+        }
+      },
+      "India": {
+        "x_axis": {
+          "label": "Year",
+          "range": [
+            "1982",
+            "2014"
+          ]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [
+            0,
+            40
+          ]
+        }
+      }
+    },
+    "series": {
+      "MNE tax revenue decline": {
+        "color": "blue",
+        "type": "bar",
+        "description": "Year-over-year decline in multinational enterprise tax revenue"
+      }
+    },
+    "notes": "United States shows most dramatic increase in decline rate over time; all countries show general upward trend in revenue decline"
+  },
+  "plot_area": [
+    308,
+    223,
+    550,
+    358
+  ],
+  "colors": [
+    {
+      "r": 124,
+      "g": 109,
+      "b": 94
+    },
+    {
+      "r": 201,
+      "g": 156,
+      "b": 113
+    }
+  ]
+}

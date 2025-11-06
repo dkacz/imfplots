@@ -1,0 +1,417 @@
+{
+  "data_points": [
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 0,
+      "value": 6.0,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 9,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 12,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 15,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 18,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 21,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 24,
+      "value": 4.17,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 27,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 27,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 30,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 30,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 33,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 33,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 36,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 36,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 39,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 39,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 42,
+      "value": 5.14,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 42,
+      "value": 5.14,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 56,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 57,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 60,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 63,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 66,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 69,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 74,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 72,
+      "value": 4.32,
+      "color_r": 144,
+      "color_g": 177,
+      "color_b": 212
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 74,
+      "value": 4.19,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 75,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 78,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 81,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 84,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 87,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 90,
+      "value": 4.21,
+      "color_r": 216,
+      "color_g": 139,
+      "color_b": 149
+    },
+    {
+      "series": "series_2",
+      "country": NaN,
+      "x_position": 91,
+      "value": 4.19,
+      "color_r": 163,
+      "color_g": 94,
+      "color_b": 115
+    }
+  ],
+  "y_axis_values": [
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0
+  ],
+  "ocr_x_labels": [
+    "USS",
+    "GDP"
+  ],
+  "metadata": {
+    "title": "Tax Revenue by Development Level and GDP Per Capita",
+    "description": "Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita",
+    "plot_type": "combined_bar_and_scatter",
+    "panels": {
+      "left": {
+        "type": "grouped_bar_chart",
+        "title": "Revenue by Development Level",
+        "x_axis": {
+          "label": "Economic Development",
+          "categories": [
+            "Developing",
+            "Advanced"
+          ]
+        },
+        "y_axis": {
+          "label": "Percent of GDP",
+          "unit": "percent",
+          "range": [
+            0,
+            4
+          ]
+        },
+        "series": {
+          "CIT": {
+            "color": "blue",
+            "description": "CIT revenue as percent of GDP"
+          },
+          "DBCFT": {
+            "color": "pink",
+            "description": "DBCFT revenue as percent of GDP"
+          }
+        }
+      },
+      "right": {
+        "type": "scatter_plot",
+        "title": "Revenue Change vs GDP Per Capita",
+        "x_axis": {
+          "label": "US$ GDP per capita",
+          "unit": "US dollars",
+          "range": [
+            0,
+            150000
+          ]
+        },
+        "y_axis": {
+          "label": "Change in revenue, Percent of GDP",
+          "unit": "percent",
+          "range": [
+            -10,
+            10
+          ]
+        },
+        "trend_line": {
+          "present": true,
+          "color": "pink",
+          "description": "Negative correlation between GDP per capita and revenue change"
+        }
+      }
+    },
+    "notes": "Developing countries show higher tax revenue as percent of GDP; wealthier countries tend to lose revenue from DBCFT adoption"
+  },
+  "plot_area": [
+    31,
+    27,
+    255,
+    335
+  ],
+  "colors": [
+    {
+      "r": 149,
+      "g": 139,
+      "b": 216
+    },
+    {
+      "r": 212,
+      "g": 177,
+      "b": 144
+    },
+    {
+      "r": 115,
+      "g": 94,
+      "b": 163
+    }
+  ]
+}

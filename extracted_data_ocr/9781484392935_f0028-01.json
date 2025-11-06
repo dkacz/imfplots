@@ -1,0 +1,336 @@
+{
+  "data_points": [
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 8,
+      "value": -15.22,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 9,
+      "value": -15.06,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 14,
+      "value": -15.22,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 15,
+      "value": -3.04,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 18,
+      "value": -9.055,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 21,
+      "value": -1.6,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 24,
+      "value": -1.76,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 27,
+      "value": -1.44,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 30,
+      "value": -1.92,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 34,
+      "value": -3.205,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 33,
+      "value": -3.53,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 36,
+      "value": -3.37,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 36,
+      "value": -2.88,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 39,
+      "value": -2.4,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 39,
+      "value": -3.85,
+      "color_r": 187,
+      "color_g": 53,
+      "color_b": 64
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 42,
+      "value": -1.12,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 45,
+      "value": -10.26,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 49,
+      "value": -8.655,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 51,
+      "value": -4.01,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 54,
+      "value": -3.53,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 57,
+      "value": -3.04,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 60,
+      "value": -18.43,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 87,
+      "value": -39.019999999999996,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 90,
+      "value": -39.1,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 93,
+      "value": -38.62,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 98,
+      "value": -21.96,
+      "color_r": 96,
+      "color_g": 142,
+      "color_b": 111
+    }
+  ],
+  "y_axis_values": [
+    -50.0,
+    -40.0,
+    -30.0,
+    -20.0,
+    -10.0,
+    0.0
+  ],
+  "ocr_x_labels": [],
+  "metadata": {
+    "title": "CIT Revenue Change vs DBCFT Adoption Revenue Change",
+    "description": "Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "DBCFT Adoption, Revenue Percent Change",
+      "unit": "percent",
+      "range": [
+        -200,
+        400
+      ]
+    },
+    "y_axis": {
+      "label": "CIT Revenue, Percent Change",
+      "unit": "percent",
+      "range": [
+        -50,
+        0
+      ]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero revenue change from DBCFT adoption"
+      }
+    },
+    "labeled_countries": [
+      "CHN",
+      "MLT",
+      "KWT",
+      "BHR",
+      "EST",
+      "CYP",
+      "QAT",
+      "LTU",
+      "LVA",
+      "SVN",
+      "ISL",
+      "GRC",
+      "HUN",
+      "POL",
+      "SVK",
+      "ISR",
+      "BGR",
+      "BOL",
+      "NZL",
+      "PRT",
+      "ROU",
+      "FIN",
+      "NLD",
+      "SWE",
+      "CHE",
+      "LUX",
+      "KOR",
+      "AUS",
+      "JPN",
+      "CAN",
+      "DEU",
+      "GBR",
+      "HND",
+      "MEX",
+      "GTI",
+      "PER"
+    ],
+    "color_coding": {
+      "red": "Countries with negative CIT revenue change",
+      "green": "Countries with minimal or positive outcomes"
+    },
+    "notes": "Most countries cluster in negative CIT revenue change zone; MEX shows extreme positive DBCFT adoption change"
+  },
+  "plot_area": [
+    53,
+    0,
+    536,
+    312
+  ],
+  "colors": [
+    {
+      "r": 111,
+      "g": 142,
+      "b": 96
+    },
+    {
+      "r": 64,
+      "g": 53,
+      "b": 187
+    }
+  ]
+}

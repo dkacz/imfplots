@@ -1,0 +1,284 @@
+{
+  "data_points": [
+    {
+      "series": "series_1",
+      "country": "BEL",
+      "x_position": 3,
+      "value": 1.6,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_1",
+      "country": "DNK",
+      "x_position": 5,
+      "value": 1.6,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "BEL",
+      "x_position": 3,
+      "value": 1.59,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_3",
+      "country": "DNK",
+      "x_position": 5,
+      "value": 1.6,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_1",
+      "country": "NLD",
+      "x_position": 25,
+      "value": 1.36,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "NLD",
+      "x_position": 25,
+      "value": 1.37,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_3",
+      "country": "PRT",
+      "x_position": 27,
+      "value": 1.37,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_1",
+      "country": "TUR",
+      "x_position": 54,
+      "value": 1.19,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "TUR",
+      "x_position": 54,
+      "value": 1.18,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_1",
+      "country": "HUN",
+      "x_position": 62,
+      "value": 1.06,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "HUN",
+      "x_position": 62,
+      "value": 1.05,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_1",
+      "country": "HUN",
+      "x_position": 63,
+      "value": 1.06,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "HUN",
+      "x_position": 63,
+      "value": 1.05,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_3",
+      "country": "LVA",
+      "x_position": 64,
+      "value": 1.05,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_1",
+      "country": "POL",
+      "x_position": 70,
+      "value": 1.32,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_1",
+      "country": "SVK",
+      "x_position": 71,
+      "value": 1.32,
+      "color_r": 141,
+      "color_g": 177,
+      "color_b": 213
+    },
+    {
+      "series": "series_3",
+      "country": "POL",
+      "x_position": 69,
+      "value": 1.33,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    },
+    {
+      "series": "series_3",
+      "country": "SVK",
+      "x_position": 71,
+      "value": 1.33,
+      "color_r": 99,
+      "color_g": 133,
+      "color_b": 180
+    }
+  ],
+  "y_axis_values": [
+    0.0,
+    0.32,
+    0.64,
+    0.96,
+    1.28,
+    1.6
+  ],
+  "ocr_x_labels": [
+    "SER",
+    "HS"
+  ],
+  "metadata": {
+    "title": "Standard Deviation of CIT and DBCFT Revenue by Country",
+    "description": "Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": [
+        "AUT",
+        "BEL",
+        "DNK",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "IRL",
+        "ITA",
+        "LUX",
+        "NLD",
+        "PRT",
+        "ESP",
+        "SWE",
+        "GBR",
+        "CAN",
+        "JPN",
+        "USA",
+        "AUS",
+        "NZL",
+        "ISR",
+        "KOR",
+        "TUR",
+        "CHL",
+        "EST",
+        "HUN",
+        "LVA",
+        "LTU",
+        "POL",
+        "SVK",
+        "SVN",
+        "CZE",
+        "NOR",
+        "CHE",
+        "ISL",
+        "MEX",
+        "CRI",
+        "BRA",
+        "ARG",
+        "COL",
+        "IND"
+      ]
+    },
+    "y_axis": {
+      "label": "Standard Deviation",
+      "unit": "standard_deviation",
+      "range": [
+        0,
+        1.6
+      ]
+    },
+    "series": {
+      "CIT": {
+        "color": "blue",
+        "description": "Standard deviation of CIT revenue"
+      },
+      "DBCFT": {
+        "color": "pink",
+        "description": "Standard deviation of DBCFT revenue"
+      }
+    },
+    "reference_lines": {
+      "mean_lines": {
+        "present": true,
+        "style": "dashed",
+        "description": "Mean standard deviation for CIT and DBCFT"
+      }
+    },
+    "notes": "Shows relative volatility of tax revenues under different tax systems; some countries show higher volatility under DBCFT"
+  },
+  "plot_area": [
+    170,
+    121,
+    346,
+    342
+  ],
+  "colors": [
+    {
+      "r": 148,
+      "g": 139,
+      "b": 215
+    },
+    {
+      "r": 213,
+      "g": 177,
+      "b": 141
+    },
+    {
+      "r": 102,
+      "g": 86,
+      "b": 192
+    },
+    {
+      "r": 180,
+      "g": 133,
+      "b": 99
+    }
+  ]
+}

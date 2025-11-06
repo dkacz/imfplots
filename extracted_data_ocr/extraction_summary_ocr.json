@@ -1,0 +1,186 @@
+{
+  "9781484392935_f0012-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0012-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0012-01.json",
+    "num_points": 93,
+    "y_axis_values": [
+      -5.0,
+      -1.0,
+      3.0,
+      7.0,
+      11.0,
+      15.0
+    ]
+  },
+  "9781484392935_f0013-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0013-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0013-01.json",
+    "num_points": 95,
+    "y_axis_values": [
+      0.0,
+      20.0,
+      40.0,
+      60.0,
+      80.0,
+      100.0
+    ]
+  },
+  "9781484392935_f0014-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0014-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0014-01.json",
+    "num_points": 62,
+    "y_axis_values": [
+      -10.0,
+      -6.0,
+      -2.0,
+      2.0,
+      6.0,
+      10.0
+    ]
+  },
+  "9781484392935_f0014-02.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0014-02.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0014-02.json",
+    "num_points": 68,
+    "y_axis_values": [
+      0.0,
+      0.8,
+      1.6,
+      2.4000000000000004,
+      3.2,
+      4.0
+    ]
+  },
+  "9781484392935_f0015-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0015-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0015-01.json",
+    "num_points": 35,
+    "y_axis_values": [
+      0.0,
+      1.0,
+      2.0,
+      3.0,
+      4.0,
+      5.0,
+      6.0
+    ]
+  },
+  "9781484392935_f0017-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0017-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0017-01.json",
+    "num_points": 41,
+    "y_axis_values": [
+      0.0,
+      1.0,
+      2.0,
+      3.0,
+      4.0,
+      5.0
+    ]
+  },
+  "9781484392935_f0019-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0019-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0019-01.json",
+    "num_points": 41,
+    "y_axis_values": [
+      -5.0,
+      -2.0,
+      1.0,
+      4.0,
+      7.0,
+      10.0
+    ]
+  },
+  "9781484392935_f0021-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0021-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0021-01.json",
+    "num_points": 27,
+    "y_axis_values": [
+      -400.0,
+      -280.0,
+      -160.0,
+      -40.0,
+      80.0,
+      200.0
+    ]
+  },
+  "9781484392935_f0022-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0022-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0022-01.json",
+    "num_points": 18,
+    "y_axis_values": [
+      0.0,
+      0.32,
+      0.64,
+      0.96,
+      1.28,
+      1.6
+    ]
+  },
+  "9781484392935_f0024-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0024-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0024-01.json",
+    "num_points": 0,
+    "y_axis_values": [
+      0.0,
+      0.16,
+      0.32,
+      0.48,
+      0.64,
+      0.8
+    ]
+  },
+  "9781484392935_f0027-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0027-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0027-01.json",
+    "num_points": 0,
+    "y_axis_values": [
+      0.0,
+      1.0,
+      2.0,
+      3.0,
+      4.0,
+      5.0,
+      6.0
+    ]
+  },
+  "9781484392935_f0028-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0028-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0028-01.json",
+    "num_points": 26,
+    "y_axis_values": [
+      -50.0,
+      -40.0,
+      -30.0,
+      -20.0,
+      -10.0,
+      0.0
+    ]
+  },
+  "9781484392935_f0029-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0029-01.csv",
+    "json": "/home/user/imfplots/extracted_data_ocr/9781484392935_f0029-01.json",
+    "num_points": 32,
+    "y_axis_values": [
+      -60.0,
+      -48.0,
+      -36.0,
+      -24.0,
+      -12.0,
+      0.0
+    ]
+  }
+}

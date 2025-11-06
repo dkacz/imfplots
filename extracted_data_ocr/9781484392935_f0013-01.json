@@ -1,0 +1,952 @@
+{
+  "data_points": [
+    {
+      "series": "series_0",
+      "country": "MEX",
+      "x_position": 4,
+      "value": 5.05,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "MEX",
+      "x_position": 3,
+      "value": 13.47,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "JPN",
+      "x_position": 6,
+      "value": 6.4,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "JPN",
+      "x_position": 6,
+      "value": 16.5,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "GBR",
+      "x_position": 9,
+      "value": 9.09,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "GBR",
+      "x_position": 9,
+      "value": 18.52,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "FRA",
+      "x_position": 12,
+      "value": 11.45,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "FRA",
+      "x_position": 12,
+      "value": 32.995,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "ITA",
+      "x_position": 15,
+      "value": 11.78,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "ITA",
+      "x_position": 15,
+      "value": 23.23,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "DEU",
+      "x_position": 18,
+      "value": 14.81,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "DEU",
+      "x_position": 18,
+      "value": 28.115,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CAN",
+      "x_position": 21,
+      "value": 15.15,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CAN",
+      "x_position": 21,
+      "value": 22.9,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "AUS",
+      "x_position": 24,
+      "value": 15.49,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "AUS",
+      "x_position": 25,
+      "value": 21.89,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "ESP",
+      "x_position": 27,
+      "value": 16.16,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "ESP",
+      "x_position": 27,
+      "value": 32.824999999999996,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "KOR",
+      "x_position": 30,
+      "value": 17.17,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "KOR",
+      "x_position": 30,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "NLD",
+      "x_position": 33,
+      "value": 18.18,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "NLD",
+      "x_position": 33,
+      "value": 23.4,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "BEL",
+      "x_position": 36,
+      "value": 20.54,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "BEL",
+      "x_position": 36,
+      "value": 32.32,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CHE",
+      "x_position": 39,
+      "value": 21.55,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CHE",
+      "x_position": 40,
+      "value": 30.98,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "SWE",
+      "x_position": 42,
+      "value": 22.9,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "SWE",
+      "x_position": 42,
+      "value": 28.62,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "AUT",
+      "x_position": 45,
+      "value": 23.23,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "AUT",
+      "x_position": 45,
+      "value": 32.325,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "NOR",
+      "x_position": 50,
+      "value": 23.57,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "POL",
+      "x_position": 48,
+      "value": 23.23,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "NOR",
+      "x_position": 50,
+      "value": 28.96,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "POL",
+      "x_position": 48,
+      "value": 22.225,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "DNK",
+      "x_position": 53,
+      "value": 24.58,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "NOR",
+      "x_position": 51,
+      "value": 23.740000000000002,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "DNK",
+      "x_position": 53,
+      "value": 34.68,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "NOR",
+      "x_position": 52,
+      "value": 28.28,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "DNK",
+      "x_position": 54,
+      "value": 24.75,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "FIN",
+      "x_position": 56,
+      "value": 25.25,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "DNK",
+      "x_position": 54,
+      "value": 31.48,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "FIN",
+      "x_position": 57,
+      "value": 25.759999999999998,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "ISR",
+      "x_position": 59,
+      "value": 25.93,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "FIN",
+      "x_position": 57,
+      "value": 33.67,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "ISR",
+      "x_position": 59,
+      "value": 36.03,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "ISR",
+      "x_position": 60,
+      "value": 25.93,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "PRT",
+      "x_position": 62,
+      "value": 26.26,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "ISR",
+      "x_position": 60,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "PRT",
+      "x_position": 62,
+      "value": 36.7,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CZE",
+      "x_position": 65,
+      "value": 28.96,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "PRT",
+      "x_position": 63,
+      "value": 25.925,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CZE",
+      "x_position": 65,
+      "value": 23.57,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "PRT",
+      "x_position": 63,
+      "value": 27.78,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CZE",
+      "x_position": 66,
+      "value": 28.96,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "GRC",
+      "x_position": 68,
+      "value": 29.97,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CZE",
+      "x_position": 67,
+      "value": 23.57,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "GRC",
+      "x_position": 68,
+      "value": 41.08,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "GRC",
+      "x_position": 69,
+      "value": 29.97,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "NZL",
+      "x_position": 71,
+      "value": 29.97,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "GRC",
+      "x_position": 69,
+      "value": 28.955,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "NZL",
+      "x_position": 71,
+      "value": 16.16,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "NZL",
+      "x_position": 72,
+      "value": 31.479999999999997,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "SVK",
+      "x_position": 74,
+      "value": 32.66,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "NZL",
+      "x_position": 72,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "SVK",
+      "x_position": 74,
+      "value": 23.57,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CHL",
+      "x_position": 77,
+      "value": 33.0,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "SVK",
+      "x_position": 75,
+      "value": 33.33,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CHL",
+      "x_position": 77,
+      "value": 35.69,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "SVK",
+      "x_position": 75,
+      "value": 38.045,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "CHL",
+      "x_position": 78,
+      "value": 35.35,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "HUN",
+      "x_position": 80,
+      "value": 36.03,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "CHL",
+      "x_position": 78,
+      "value": 26.935000000000002,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "HUN",
+      "x_position": 80,
+      "value": 27.95,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "HUN",
+      "x_position": 81,
+      "value": 35.525000000000006,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "IRL",
+      "x_position": 83,
+      "value": 37.04,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "HUN",
+      "x_position": 81,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "IRL",
+      "x_position": 84,
+      "value": 38.72,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "SVN",
+      "x_position": 86,
+      "value": 39.73,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "IRL",
+      "x_position": 84,
+      "value": 28.115000000000002,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "SVN",
+      "x_position": 86,
+      "value": 27.95,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "LTU",
+      "x_position": 89,
+      "value": 46.46,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "SVN",
+      "x_position": 87,
+      "value": 44.11,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "LTU",
+      "x_position": 89,
+      "value": 14.14,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "SVN",
+      "x_position": 87,
+      "value": 22.56,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "LTU",
+      "x_position": 90,
+      "value": 50.84,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "LUX",
+      "x_position": 92,
+      "value": 59.26,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "LTU",
+      "x_position": 90,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "LUX",
+      "x_position": 92,
+      "value": 32.66,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "LUX",
+      "x_position": 93,
+      "value": 67.34,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "LVA",
+      "x_position": 95,
+      "value": 78.11,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "LUX",
+      "x_position": 94,
+      "value": 23.57,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_1",
+      "country": "LVA",
+      "x_position": 95,
+      "value": 28.96,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    },
+    {
+      "series": "series_0",
+      "country": "EST",
+      "x_position": 98,
+      "value": 87.88,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_0",
+      "country": "LVA",
+      "x_position": 96,
+      "value": 83.0,
+      "color_r": 78,
+      "color_g": 133,
+      "color_b": 189
+    },
+    {
+      "series": "series_1",
+      "country": "LVA",
+      "x_position": 96,
+      "value": 30.134999999999998,
+      "color_r": 175,
+      "color_g": 29,
+      "color_b": 49
+    }
+  ],
+  "y_axis_values": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0
+  ],
+  "ocr_x_labels": [],
+  "metadata": {
+    "title": "Revenue-neutral Rate vs Current CIT Rate by Country",
+    "description": "Comparison of revenue-neutral tax rates versus current Corporate Income Tax rates",
+    "plot_type": "bar_and_scatter",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": [
+        "USA",
+        "MEX",
+        "JPN",
+        "GBR",
+        "FRA",
+        "ITA",
+        "DEU",
+        "CAN",
+        "AUS",
+        "ESP",
+        "KOR",
+        "NLD",
+        "BEL",
+        "CHE",
+        "SWE",
+        "AUT",
+        "POL",
+        "NOR",
+        "DNK",
+        "FIN",
+        "ISR",
+        "PRT",
+        "CZE",
+        "GRC",
+        "NZL",
+        "SVK",
+        "CHL",
+        "HUN",
+        "IRL",
+        "SVN",
+        "LTU",
+        "LUX",
+        "LVA",
+        "EST"
+      ]
+    },
+    "y_axis": {
+      "label": "Percent",
+      "unit": "percent",
+      "range": [
+        0,
+        100
+      ]
+    },
+    "series": {
+      "Revenue-neutral rate": {
+        "color": "blue",
+        "type": "bar",
+        "description": "DBCFT rate that would generate equivalent revenue to current CIT"
+      },
+      "Current CIT rate": {
+        "color": "red",
+        "type": "scatter",
+        "description": "Current statutory Corporate Income Tax rate"
+      }
+    },
+    "notes": "Shows the tax rate adjustment needed for revenue neutrality when switching from CIT to DBCFT"
+  },
+  "plot_area": [
+    59,
+    27,
+    549,
+    324
+  ],
+  "colors": [
+    {
+      "r": 189,
+      "g": 133,
+      "b": 78
+    },
+    {
+      "r": 49,
+      "g": 29,
+      "b": 175
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "data_points": [
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 6,
+      "value": -82.09,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 9,
+      "value": -59.7,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 16,
+      "value": -56.345,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 18,
+      "value": -61.94,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 21,
+      "value": -55.22,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 31,
+      "value": -36.19,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 30,
+      "value": -35.07,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 33,
+      "value": -28.36,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 33,
+      "value": 58.96,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 36,
+      "value": -55.22,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 36,
+      "value": 29.85,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 39,
+      "value": 16.42,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 39,
+      "value": -37.31,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 42,
+      "value": 14.18,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 42,
+      "value": -17.16,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 45,
+      "value": 5.22,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 47,
+      "value": 25.37,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 48,
+      "value": 38.81,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_1",
+      "country": NaN,
+      "x_position": 48,
+      "value": 28.730000000000004,
+      "color_r": 85,
+      "color_g": 134,
+      "color_b": 188
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 51,
+      "value": 137.31,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 54,
+      "value": 137.31,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 57,
+      "value": -21.64,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 60,
+      "value": -22.759999999999998,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 65,
+      "value": -144.78,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 67,
+      "value": -151.49,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 91,
+      "value": 17.54,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    },
+    {
+      "series": "series_0",
+      "country": NaN,
+      "x_position": 94,
+      "value": 27.61,
+      "color_r": 185,
+      "color_g": 76,
+      "color_b": 91
+    }
+  ],
+  "y_axis_values": [
+    -400.0,
+    -280.0,
+    -160.0,
+    -40.0,
+    80.0,
+    200.0
+  ],
+  "ocr_x_labels": [
+    "GDP"
+  ],
+  "metadata": {
+    "title": "Net IIP vs Trade Balance by Country",
+    "description": "Scatter plot showing relationship between trade balance and net international investment position",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Trade Balance, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -20,
+        40
+      ]
+    },
+    "y_axis": {
+      "label": "Net IIP, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -400,
+        200
+      ]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero trade balance"
+      },
+      "horizontal": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero net IIP"
+      }
+    },
+    "labeled_countries": [
+      "NOR",
+      "CHE",
+      "NLD",
+      "JPN",
+      "BEL",
+      "DNK",
+      "DEU",
+      "SWE",
+      "KOR",
+      "HUN",
+      "CAN",
+      "FIN",
+      "ITA",
+      "USA",
+      "CZE",
+      "CYP",
+      "FRA",
+      "AUT",
+      "NZL",
+      "TUR",
+      "SVK",
+      "POL",
+      "GBR",
+      "MEX",
+      "GRC",
+      "EST",
+      "SVN",
+      "LVA",
+      "ISR",
+      "KAZ",
+      "HRV",
+      "ARM",
+      "MAR",
+      "HND",
+      "LUX",
+      "IRL",
+      "ISL"
+    ],
+    "color_coding": {
+      "blue": "Countries with positive characteristics",
+      "red": "Countries with negative characteristics"
+    },
+    "notes": "Notable outliers include NOR (high positive IIP), ISL (very negative IIP), and LUX (high trade surplus)"
+  },
+  "plot_area": [
+    64,
+    1,
+    549,
+    269
+  ],
+  "colors": [
+    {
+      "r": 91,
+      "g": 76,
+      "b": 185
+    },
+    {
+      "r": 188,
+      "g": 134,
+      "b": 85
+    }
+  ]
+}
