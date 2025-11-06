@@ -1,0 +1,427 @@
+{
+  "9781484392935_f0012-01.jpg": {
+    "title": "CIT and DBCFT Revenue by Country",
+    "description": "Comparison of Corporate Income Tax (CIT) revenue versus Destination-Based Cash Flow Tax (DBCFT) revenue across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "BEL", "CHE", "SWE", "AUT", "POL", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [-5, 15]
+    },
+    "series": {
+      "CIT revenue": {
+        "color": "blue",
+        "description": "Corporate Income Tax revenue as percent of GDP"
+      },
+      "DBCFT revenue": {
+        "color": "red",
+        "description": "Destination-Based Cash Flow Tax revenue as percent of GDP"
+      }
+    },
+    "notes": "Shows significant variation in tax revenue across countries, with some countries having negative DBCFT revenue values"
+  },
+  "9781484392935_f0013-01.jpg": {
+    "title": "Revenue-neutral Rate vs Current CIT Rate by Country",
+    "description": "Comparison of revenue-neutral tax rates versus current Corporate Income Tax rates",
+    "plot_type": "bar_and_scatter",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "BEL", "CHE", "SWE", "AUT", "POL", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
+    },
+    "y_axis": {
+      "label": "Percent",
+      "unit": "percent",
+      "range": [0, 100]
+    },
+    "series": {
+      "Revenue-neutral rate": {
+        "color": "blue",
+        "type": "bar",
+        "description": "DBCFT rate that would generate equivalent revenue to current CIT"
+      },
+      "Current CIT rate": {
+        "color": "red",
+        "type": "scatter",
+        "description": "Current statutory Corporate Income Tax rate"
+      }
+    },
+    "notes": "Shows the tax rate adjustment needed for revenue neutrality when switching from CIT to DBCFT"
+  },
+  "9781484392935_f0014-01.jpg": {
+    "title": "Revenue Gain vs Revenue Loss from DBCFT Adoption",
+    "description": "Scatter plot showing relationship between trade balance and revenue change from adopting DBCFT",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Trade Balance",
+      "unit": "unknown",
+      "range": [-40, 40]
+    },
+    "y_axis": {
+      "label": "Revenue Change",
+      "unit": "unknown",
+      "range": [-10, 10]
+    },
+    "series": {
+      "Revenue gain": {
+        "color": "blue",
+        "marker": "circle_outline",
+        "description": "Countries experiencing revenue gains from DBCFT adoption"
+      },
+      "Revenue loss": {
+        "color": "red",
+        "marker": "filled_circle",
+        "description": "Countries experiencing revenue losses from DBCFT adoption"
+      }
+    },
+    "trend_line": {
+      "present": true,
+      "description": "Negative correlation between trade balance and revenue change"
+    },
+    "notes": "Clear negative relationship: countries with trade surpluses tend to lose revenue, while deficit countries gain revenue"
+  },
+  "9781484392935_f0014-02.jpg": {
+    "title": "Tax Revenue Comparison by Trade Balance Status",
+    "description": "Comparison of current revenue, CFT revenue, and DBCFT revenue for countries with trade deficit vs surplus",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Trade Status",
+      "type": "categorical",
+      "categories": ["Trade deficit", "Trade surplus"]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [0, 4]
+    },
+    "series": {
+      "Current revenue": {
+        "color": "blue_gray",
+        "description": "Current tax revenue under CIT system"
+      },
+      "CFT revenue": {
+        "color": "light_gray",
+        "description": "Cash Flow Tax revenue (no border adjustment)"
+      },
+      "DBCFT revenue": {
+        "color": "pink",
+        "description": "Destination-Based Cash Flow Tax revenue"
+      }
+    },
+    "notes": "Trade deficit countries see higher DBCFT revenue compared to trade surplus countries"
+  },
+  "9781484392935_f0015-01.jpg": {
+    "title": "Tax Revenue by Development Level and GDP Per Capita",
+    "description": "Two-panel chart showing CIT vs DBCFT revenue for developing/advanced economies and relationship with GDP per capita",
+    "plot_type": "combined_bar_and_scatter",
+    "panels": {
+      "left": {
+        "type": "grouped_bar_chart",
+        "title": "Revenue by Development Level",
+        "x_axis": {
+          "label": "Economic Development",
+          "categories": ["Developing", "Advanced"]
+        },
+        "y_axis": {
+          "label": "Percent of GDP",
+          "unit": "percent",
+          "range": [0, 4]
+        },
+        "series": {
+          "CIT": {
+            "color": "blue",
+            "description": "CIT revenue as percent of GDP"
+          },
+          "DBCFT": {
+            "color": "pink",
+            "description": "DBCFT revenue as percent of GDP"
+          }
+        }
+      },
+      "right": {
+        "type": "scatter_plot",
+        "title": "Revenue Change vs GDP Per Capita",
+        "x_axis": {
+          "label": "US$ GDP per capita",
+          "unit": "US dollars",
+          "range": [0, 150000]
+        },
+        "y_axis": {
+          "label": "Change in revenue, Percent of GDP",
+          "unit": "percent",
+          "range": [-10, 10]
+        },
+        "trend_line": {
+          "present": true,
+          "color": "pink",
+          "description": "Negative correlation between GDP per capita and revenue change"
+        }
+      }
+    },
+    "notes": "Developing countries show higher tax revenue as percent of GDP; wealthier countries tend to lose revenue from DBCFT adoption"
+  },
+  "9781484392935_f0017-01.jpg": {
+    "title": "CIT and DBCFT Revenue: Resource-Rich vs Non-Resource-Rich Countries",
+    "description": "Comparison of tax revenues between resource-rich and non-resource-rich countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Country Type",
+      "type": "categorical",
+      "categories": ["Non-resource rich", "Resource rich"]
+    },
+    "y_axis": {
+      "label": "Percent of GDP",
+      "unit": "percent",
+      "range": [0, 5]
+    },
+    "series": {
+      "CIT revenue": {
+        "color": "blue",
+        "description": "Corporate Income Tax revenue as percent of GDP"
+      },
+      "DBCFT revenue": {
+        "color": "pink",
+        "description": "Destination-Based Cash Flow Tax revenue as percent of GDP"
+      }
+    },
+    "notes": "Resource-rich countries show higher tax revenue overall; both country types show similar patterns between CIT and DBCFT"
+  },
+  "9781484392935_f0019-01.jpg": {
+    "title": "Adjusted vs Unadjusted DBCFT Revenue",
+    "description": "Scatter plot comparing adjusted DBCFT revenue with unadjusted DBCFT revenue by country",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Adjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [-5, 10]
+    },
+    "y_axis": {
+      "label": "Unadjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [-5, 10]
+    },
+    "series": {
+      "Countries": {
+        "color": "blue",
+        "marker": "circle_outline",
+        "description": "Country data points"
+      }
+    },
+    "trend_line": {
+      "present": true,
+      "color": "red",
+      "description": "45-degree reference line showing perfect correlation"
+    },
+    "labeled_countries": ["MEX", "USA", "BEL", "KOR", "IRL", "CYP", "NLD", "SWE", "CHE", "GRC", "LUX"],
+    "notes": "Most countries cluster near the 45-degree line, indicating adjustments have minimal impact; LUX is a notable outlier"
+  },
+  "9781484392935_f0021-01.jpg": {
+    "title": "Net IIP vs Trade Balance by Country",
+    "description": "Scatter plot showing relationship between trade balance and net international investment position",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Trade Balance, Percent of GDP",
+      "unit": "percent",
+      "range": [-20, 40]
+    },
+    "y_axis": {
+      "label": "Net IIP, Percent of GDP",
+      "unit": "percent",
+      "range": [-400, 200]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero trade balance"
+      },
+      "horizontal": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero net IIP"
+      }
+    },
+    "labeled_countries": ["NOR", "CHE", "NLD", "JPN", "BEL", "DNK", "DEU", "SWE", "KOR", "HUN", "CAN", "FIN", "ITA", "USA", "CZE", "CYP", "FRA", "AUT", "NZL", "TUR", "SVK", "POL", "GBR", "MEX", "GRC", "EST", "SVN", "LVA", "ISR", "KAZ", "HRV", "ARM", "MAR", "HND", "LUX", "IRL", "ISL"],
+    "color_coding": {
+      "blue": "Countries with positive characteristics",
+      "red": "Countries with negative characteristics"
+    },
+    "notes": "Notable outliers include NOR (high positive IIP), ISL (very negative IIP), and LUX (high trade surplus)"
+  },
+  "9781484392935_f0022-01.jpg": {
+    "title": "Standard Deviation of CIT and DBCFT Revenue by Country",
+    "description": "Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries",
+    "plot_type": "grouped_bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": ["AUT", "BEL", "DNK", "FIN", "FRA", "DEU", "GRC", "IRL", "ITA", "LUX", "NLD", "PRT", "ESP", "SWE", "GBR", "CAN", "JPN", "USA", "AUS", "NZL", "ISR", "KOR", "TUR", "CHL", "EST", "HUN", "LVA", "LTU", "POL", "SVK", "SVN", "CZE", "NOR", "CHE", "ISL", "MEX", "CRI", "BRA", "ARG", "COL", "IND"]
+    },
+    "y_axis": {
+      "label": "Standard Deviation",
+      "unit": "standard_deviation",
+      "range": [0, 1.6]
+    },
+    "series": {
+      "CIT": {
+        "color": "blue",
+        "description": "Standard deviation of CIT revenue"
+      },
+      "DBCFT": {
+        "color": "pink",
+        "description": "Standard deviation of DBCFT revenue"
+      }
+    },
+    "reference_lines": {
+      "mean_lines": {
+        "present": true,
+        "style": "dashed",
+        "description": "Mean standard deviation for CIT and DBCFT"
+      }
+    },
+    "notes": "Shows relative volatility of tax revenues under different tax systems; some countries show higher volatility under DBCFT"
+  },
+  "9781484392935_f0024-01.jpg": {
+    "title": "Loss/Sale Ratio Average 2005-2014 by Country",
+    "description": "Bar chart showing ratio of total firm losses to total firm sales by country",
+    "plot_type": "bar_chart",
+    "x_axis": {
+      "label": "Countries",
+      "type": "categorical",
+      "countries": ["Japan", "Finland", "Australia", "Germany", "Belgium", "Poland", "Spain", "Sweden", "Czech Republic", "France", "Russia", "Estonia", "Korea", "Italy", "Mexico", "Portugal", "Romania", "Slovenia", "Ukraine", "Greece", "Serbia"]
+    },
+    "y_axis": {
+      "label": "Ratio of total firm losses/total firm sales",
+      "unit": "ratio",
+      "range": [0, 0.8]
+    },
+    "series": {
+      "Loss/sale ratio": {
+        "color": "dark_blue",
+        "description": "Average ratio of losses to sales from 2005-2014"
+      }
+    },
+    "notes": "Serbia shows highest loss/sale ratio at approximately 0.7; Japan shows lowest at approximately 0.1"
+  },
+  "9781484392935_f0027-01.jpg": {
+    "title": "Decline in MNE Tax Revenue by Country (Four Countries)",
+    "description": "Four-panel time series showing decline in MNE (Multinational Enterprise) tax revenue as percent of tax revenue",
+    "plot_type": "multi_panel_time_series",
+    "panels": {
+      "United States": {
+        "x_axis": {
+          "label": "Year",
+          "range": ["1982", "2014"]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [0, 40]
+        }
+      },
+      "United Kingdom": {
+        "x_axis": {
+          "label": "Year",
+          "range": ["1982", "2014"]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [0, 40]
+        }
+      },
+      "Brazil": {
+        "x_axis": {
+          "label": "Year",
+          "range": ["1982", "2014"]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [0, 40]
+        }
+      },
+      "India": {
+        "x_axis": {
+          "label": "Year",
+          "range": ["1982", "2014"]
+        },
+        "y_axis": {
+          "label": "Decline in MNE Tax revenue, percent",
+          "range": [0, 40]
+        }
+      }
+    },
+    "series": {
+      "MNE tax revenue decline": {
+        "color": "blue",
+        "type": "bar",
+        "description": "Year-over-year decline in multinational enterprise tax revenue"
+      }
+    },
+    "notes": "United States shows most dramatic increase in decline rate over time; all countries show general upward trend in revenue decline"
+  },
+  "9781484392935_f0028-01.jpg": {
+    "title": "CIT Revenue Change vs DBCFT Adoption Revenue Change",
+    "description": "Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "DBCFT Adoption, Revenue Percent Change",
+      "unit": "percent",
+      "range": [-200, 400]
+    },
+    "y_axis": {
+      "label": "CIT Revenue, Percent Change",
+      "unit": "percent",
+      "range": [-50, 0]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero revenue change from DBCFT adoption"
+      }
+    },
+    "labeled_countries": ["CHN", "MLT", "KWT", "BHR", "EST", "CYP", "QAT", "LTU", "LVA", "SVN", "ISL", "GRC", "HUN", "POL", "SVK", "ISR", "BGR", "BOL", "NZL", "PRT", "ROU", "FIN", "NLD", "SWE", "CHE", "LUX", "KOR", "AUS", "JPN", "CAN", "DEU", "GBR", "HND", "MEX", "GTI", "PER"],
+    "color_coding": {
+      "red": "Countries with negative CIT revenue change",
+      "green": "Countries with minimal or positive outcomes"
+    },
+    "notes": "Most countries cluster in negative CIT revenue change zone; MEX shows extreme positive DBCFT adoption change"
+  },
+  "9781484392935_f0029-01.jpg": {
+    "title": "CIT Revenue Change vs DBCFT Adoption (Negative Range Focus)",
+    "description": "Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "DBCFT Adoption, Revenue Percent Change",
+      "unit": "percent",
+      "range": [-200, 0]
+    },
+    "y_axis": {
+      "label": "CIT Revenue, Percent Change",
+      "unit": "percent",
+      "range": [-60, 0]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero revenue change from DBCFT adoption"
+      },
+      "diagonal": {
+        "present": true,
+        "style": "dashed",
+        "description": "Reference trend line"
+      }
+    },
+    "labeled_countries": ["CHN", "UKR", "HRV", "IRL", "KAZ", "CZE", "KOR", "AUS", "LUX", "BGR", "FIN", "SVK"],
+    "color_coding": {
+      "red_filled": "Primary group of countries",
+      "orange_outline": "Secondary group of countries"
+    },
+    "notes": "Zoomed-in view of countries experiencing revenue losses; shows variation in how countries are affected by tax system changes"
+  }
+}

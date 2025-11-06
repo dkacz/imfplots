@@ -348,5 +348,76 @@
         117
       ]
     }
+  },
+  "metadata": {
+    "title": "CIT Revenue Change vs DBCFT Adoption Revenue Change",
+    "description": "Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "DBCFT Adoption, Revenue Percent Change",
+      "unit": "percent",
+      "range": [
+        -200,
+        400
+      ]
+    },
+    "y_axis": {
+      "label": "CIT Revenue, Percent Change",
+      "unit": "percent",
+      "range": [
+        -50,
+        0
+      ]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero revenue change from DBCFT adoption"
+      }
+    },
+    "labeled_countries": [
+      "CHN",
+      "MLT",
+      "KWT",
+      "BHR",
+      "EST",
+      "CYP",
+      "QAT",
+      "LTU",
+      "LVA",
+      "SVN",
+      "ISL",
+      "GRC",
+      "HUN",
+      "POL",
+      "SVK",
+      "ISR",
+      "BGR",
+      "BOL",
+      "NZL",
+      "PRT",
+      "ROU",
+      "FIN",
+      "NLD",
+      "SWE",
+      "CHE",
+      "LUX",
+      "KOR",
+      "AUS",
+      "JPN",
+      "CAN",
+      "DEU",
+      "GBR",
+      "HND",
+      "MEX",
+      "GTI",
+      "PER"
+    ],
+    "color_coding": {
+      "red": "Countries with negative CIT revenue change",
+      "green": "Countries with minimal or positive outcomes"
+    },
+    "notes": "Most countries cluster in negative CIT revenue change zone; MEX shows extreme positive DBCFT adoption change"
   }
 }

@@ -1,308 +1,308 @@
-series,x_position,value,color_r,color_g,color_b
-series_0,5,7.2727272727272725,198,92,106
-series_0,6,7.2727272727272725,198,92,106
-series_0,8,10.909090909090908,198,92,106
-series_0,9,10.909090909090908,198,92,106
-series_0,11,10.909090909090908,198,92,106
-series_0,12,10.909090909090908,198,92,106
-series_0,15,11.272727272727273,198,92,106
-series_0,18,11.636363636363637,198,92,106
-series_0,19,11.636363636363637,198,92,106
-series_0,21,14.909090909090908,198,92,106
-series_0,22,14.909090909090908,198,92,106
-series_0,24,15.272727272727273,198,92,106
-series_0,25,15.272727272727273,198,92,106
-series_0,27,16.363636363636363,198,92,106
-series_0,28,16.363636363636363,198,92,106
-series_0,31,17.454545454545457,198,92,106
-series_0,32,17.454545454545457,198,92,106
-series_0,34,17.81818181818182,198,92,106
-series_0,35,17.81818181818182,198,92,106
-series_0,37,21.454545454545453,198,92,106
-series_0,38,21.454545454545453,198,92,106
-series_0,40,22.545454545454547,198,92,106
-series_0,41,22.181818181818183,198,92,106
-series_0,44,23.636363636363637,198,92,106
-series_0,45,23.636363636363637,198,92,106
-series_0,47,24.727272727272727,198,92,106
-series_0,48,24.727272727272727,198,92,106
-series_0,50,25.818181818181817,198,92,106
-series_0,51,25.818181818181817,198,92,106
-series_0,53,28.72727272727273,198,92,106
-series_0,54,28.72727272727273,198,92,106
-series_0,57,29.09090909090909,198,92,106
-series_0,58,28.72727272727273,198,92,106
-series_0,60,32.0,198,92,106
-series_0,61,32.0,198,92,106
-series_0,63,33.81818181818182,198,92,106
-series_0,64,33.81818181818182,198,92,106
-series_0,66,36.36363636363637,198,92,106
-series_0,67,36.36363636363637,198,92,106
-series_0,70,36.72727272727273,198,92,106
-series_0,71,36.36363636363637,198,92,106
-series_0,73,38.54545454545455,198,92,106
-series_0,74,38.54545454545455,198,92,106
-series_0,76,38.54545454545455,198,92,106
-series_0,77,38.54545454545455,198,92,106
-series_0,79,39.63636363636363,198,92,106
-series_0,80,39.63636363636363,198,92,106
-series_0,83,41.45454545454545,198,92,106
-series_0,84,36.0,198,92,106
-series_0,86,41.45454545454545,198,92,106
-series_0,87,41.090909090909086,198,92,106
-series_0,89,41.81818181818181,198,92,106
-series_0,90,41.81818181818181,198,92,106
-series_0,92,42.54545454545455,198,92,106
-series_0,93,42.54545454545455,198,92,106
-series_0,95,42.90909090909091,198,92,106
-series_0,96,42.90909090909091,198,92,106
-series_0,99,47.63636363636364,198,92,106
-series_1,0,28.000000000000004,109,144,185
-series_1,1,28.000000000000004,109,144,185
-series_1,3,28.000000000000004,109,144,185
-series_1,4,28.000000000000004,109,144,185
-series_1,5,28.000000000000004,109,144,185
-series_1,6,28.000000000000004,109,144,185
-series_1,7,28.000000000000004,109,144,185
-series_1,8,28.000000000000004,109,144,185
-series_1,9,28.000000000000004,109,144,185
-series_1,10,28.000000000000004,109,144,185
-series_1,11,28.000000000000004,109,144,185
-series_1,13,28.000000000000004,109,144,185
-series_1,14,28.000000000000004,109,144,185
-series_1,16,28.000000000000004,109,144,185
-series_1,17,33.81818181818182,109,144,185
-series_1,18,33.81818181818182,109,144,185
-series_1,19,28.000000000000004,109,144,185
-series_1,20,28.000000000000004,109,144,185
-series_1,21,28.000000000000004,109,144,185
-series_1,22,28.000000000000004,109,144,185
-series_1,23,28.000000000000004,109,144,185
-series_1,24,28.000000000000004,109,144,185
-series_1,25,28.000000000000004,109,144,185
-series_1,26,28.000000000000004,109,144,185
-series_1,27,28.000000000000004,109,144,185
-series_1,29,68.72727272727272,109,144,185
-series_1,30,69.0909090909091,109,144,185
-series_1,32,28.000000000000004,109,144,185
-series_1,33,28.363636363636363,109,144,185
-series_1,34,28.000000000000004,109,144,185
-series_1,35,28.000000000000004,109,144,185
-series_1,36,28.000000000000004,109,144,185
-series_1,37,28.000000000000004,109,144,185
-series_1,38,28.000000000000004,109,144,185
-series_1,39,57.45454545454546,109,144,185
-series_1,40,57.45454545454546,109,144,185
-series_1,42,28.000000000000004,109,144,185
-series_1,43,28.000000000000004,109,144,185
-series_1,45,28.000000000000004,109,144,185
-series_1,46,28.000000000000004,109,144,185
-series_1,47,15.636363636363637,109,144,185
-series_1,48,28.000000000000004,109,144,185
-series_1,49,30.181818181818183,109,144,185
-series_1,50,30.181818181818183,109,144,185
-series_1,51,28.000000000000004,109,144,185
-series_1,52,48.0,109,144,185
-series_1,53,48.0,109,144,185
-series_1,55,41.45454545454545,109,144,185
-series_1,56,41.45454545454545,109,144,185
-series_1,58,28.000000000000004,109,144,185
-series_1,59,55.63636363636364,109,144,185
-series_1,60,55.63636363636364,109,144,185
-series_1,61,28.000000000000004,109,144,185
-series_1,62,35.27272727272727,109,144,185
-series_1,63,35.27272727272727,109,144,185
-series_1,64,28.000000000000004,109,144,185
-series_1,65,32.36363636363636,109,144,185
-series_1,66,32.36363636363636,109,144,185
-series_1,68,28.000000000000004,109,144,185
-series_1,69,28.000000000000004,109,144,185
-series_1,71,28.000000000000004,109,144,185
-series_1,72,28.000000000000004,109,144,185
-series_1,74,28.000000000000004,109,144,185
-series_1,75,40.36363636363636,109,144,185
-series_1,76,40.36363636363636,109,144,185
-series_1,77,28.000000000000004,109,144,185
-series_1,78,29.818181818181817,109,144,185
-series_1,79,29.818181818181817,109,144,185
-series_1,81,28.000000000000004,109,144,185
-series_1,82,28.000000000000004,109,144,185
-series_1,84,36.36363636363637,109,144,185
-series_1,85,38.90909090909091,109,144,185
-series_1,87,28.000000000000004,109,144,185
-series_1,88,28.000000000000004,109,144,185
-series_1,89,18.90909090909091,109,144,185
-series_1,90,28.000000000000004,109,144,185
-series_1,91,28.000000000000004,109,144,185
-series_1,92,17.454545454545457,109,144,185
-series_1,94,28.000000000000004,109,144,185
-series_1,95,10.181818181818182,109,144,185
-series_1,97,28.000000000000004,109,144,185
-series_1,98,28.000000000000004,109,144,185
-series_2,0,36.0,217,143,151
-series_2,1,36.0,217,143,151
-series_2,3,36.0,217,143,151
-series_2,4,36.0,217,143,151
-series_2,5,36.0,217,143,151
-series_2,6,36.0,217,143,151
-series_2,7,36.0,217,143,151
-series_2,8,36.0,217,143,151
-series_2,9,36.0,217,143,151
-series_2,10,36.0,217,143,151
-series_2,11,36.0,217,143,151
-series_2,12,10.909090909090908,217,143,151
-series_2,13,36.0,217,143,151
-series_2,14,36.0,217,143,151
-series_2,15,10.909090909090908,217,143,151
-series_2,16,36.0,217,143,151
-series_2,17,36.0,217,143,151
-series_2,18,11.272727272727273,217,143,151
-series_2,19,36.0,217,143,151
-series_2,20,36.0,217,143,151
-series_2,21,36.0,217,143,151
-series_2,22,36.0,217,143,151
-series_2,23,36.0,217,143,151
-series_2,24,36.0,217,143,151
-series_2,25,36.0,217,143,151
-series_2,26,36.0,217,143,151
-series_2,27,36.0,217,143,151
-series_2,28,16.0,217,143,151
-series_2,29,36.0,217,143,151
-series_2,31,17.454545454545457,217,143,151
-series_2,32,36.0,217,143,151
-series_2,33,36.0,217,143,151
-series_2,34,17.454545454545457,217,143,151
-series_2,35,36.0,217,143,151
-series_2,36,36.0,217,143,151
-series_2,37,36.0,217,143,151
-series_2,38,36.0,217,143,151
-series_2,39,36.0,217,143,151
-series_2,41,36.0,217,143,151
-series_2,42,36.0,217,143,151
-series_2,43,36.0,217,143,151
-series_2,44,23.272727272727273,217,143,151
-series_2,45,36.0,217,143,151
-series_2,46,36.0,217,143,151
-series_2,47,24.363636363636363,217,143,151
-series_2,48,36.0,217,143,151
-series_2,49,36.0,217,143,151
-series_2,50,36.0,217,143,151
-series_2,51,36.0,217,143,151
-series_2,52,36.0,217,143,151
-series_2,54,36.0,217,143,151
-series_2,55,36.0,217,143,151
-series_2,57,28.72727272727273,217,143,151
-series_2,58,36.0,217,143,151
-series_2,60,32.36363636363636,217,143,151
-series_2,61,36.0,217,143,151
-series_2,62,36.0,217,143,151
-series_2,63,33.45454545454545,217,143,151
-series_2,64,36.0,217,143,151
-series_2,65,36.0,217,143,151
-series_2,66,36.0,217,143,151
-series_2,67,36.36363636363637,217,143,151
-series_2,68,36.0,217,143,151
-series_2,69,36.36363636363637,217,143,151
-series_2,70,36.72727272727273,217,143,151
-series_2,71,36.0,217,143,151
-series_2,72,36.0,217,143,151
-series_2,73,38.18181818181819,217,143,151
-series_2,74,38.18181818181819,217,143,151
-series_2,76,38.18181818181819,217,143,151
-series_2,77,38.18181818181819,217,143,151
-series_2,78,36.0,217,143,151
-series_2,79,39.63636363636363,217,143,151
-series_2,80,39.27272727272727,217,143,151
-series_2,81,36.0,217,143,151
-series_2,82,41.45454545454545,217,143,151
-series_2,83,41.090909090909086,217,143,151
-series_2,84,41.090909090909086,217,143,151
-series_2,86,41.090909090909086,217,143,151
-series_2,87,36.36363636363637,217,143,151
-series_2,88,36.0,217,143,151
-series_2,89,41.81818181818181,217,143,151
-series_2,90,41.45454545454545,217,143,151
-series_2,91,36.0,217,143,151
-series_2,92,42.54545454545455,217,143,151
-series_2,93,42.18181818181818,217,143,151
-series_2,94,36.0,217,143,151
-series_2,95,36.0,217,143,151
-series_2,96,42.54545454545455,217,143,151
-series_2,97,36.36363636363637,217,143,151
-series_2,98,36.0,217,143,151
-series_2,99,48.0,217,143,151
-series_3,11,10.545454545454545,97,78,96
-series_3,14,10.909090909090908,97,78,96
-series_3,18,11.272727272727273,97,78,96
-series_3,21,11.272727272727273,97,78,96
-series_3,73,12.363636363636363,97,78,96
-series_3,76,38.18181818181819,97,78,96
-series_3,82,12.363636363636363,97,78,96
-series_4,0,28.000000000000004,146,181,215
-series_4,4,28.000000000000004,146,181,215
-series_4,7,20.0,146,181,215
-series_4,8,20.363636363636363,146,181,215
-series_4,10,22.181818181818183,146,181,215
-series_4,11,28.000000000000004,146,181,215
-series_4,13,21.09090909090909,146,181,215
-series_4,14,28.000000000000004,146,181,215
-series_4,16,33.81818181818182,146,181,215
-series_4,17,33.45454545454545,146,181,215
-series_4,18,33.81818181818182,146,181,215
-series_4,19,28.000000000000004,146,181,215
-series_4,20,11.272727272727273,146,181,215
-series_4,21,10.909090909090908,146,181,215
-series_4,23,13.818181818181818,146,181,215
-series_4,24,13.818181818181818,146,181,215
-series_4,26,7.2727272727272725,146,181,215
-series_4,27,6.909090909090909,146,181,215
-series_4,29,69.0909090909091,146,181,215
-series_4,30,69.0909090909091,146,181,215
-series_4,31,68.72727272727272,146,181,215
-series_4,33,28.72727272727273,146,181,215
-series_4,34,28.72727272727273,146,181,215
-series_4,35,28.000000000000004,146,181,215
-series_4,36,4.7272727272727275,146,181,215
-series_4,37,28.000000000000004,146,181,215
-series_4,38,28.000000000000004,146,181,215
-series_4,39,57.09090909090909,146,181,215
-series_4,40,57.09090909090909,146,181,215
-series_4,42,24.363636363636363,146,181,215
-series_4,43,24.363636363636363,146,181,215
-series_4,46,15.272727272727273,146,181,215
-series_4,48,28.000000000000004,146,181,215
-series_4,49,29.818181818181817,146,181,215
-series_4,50,29.818181818181817,146,181,215
-series_4,52,48.36363636363637,146,181,215
-series_4,53,48.36363636363637,146,181,215
-series_4,56,41.81818181818181,146,181,215
-series_4,58,28.000000000000004,146,181,215
-series_4,59,55.27272727272727,146,181,215
-series_4,61,28.000000000000004,146,181,215
-series_4,62,34.909090909090914,146,181,215
-series_4,63,35.27272727272727,146,181,215
-series_4,65,32.0,146,181,215
-series_4,66,32.0,146,181,215
-series_4,68,28.000000000000004,146,181,215
-series_4,69,25.09090909090909,146,181,215
-series_4,71,12.363636363636363,146,181,215
-series_4,72,12.363636363636363,146,181,215
-series_4,74,28.000000000000004,146,181,215
-series_4,75,40.72727272727273,146,181,215
-series_4,76,40.72727272727273,146,181,215
-series_4,77,28.000000000000004,146,181,215
-series_4,78,29.818181818181817,146,181,215
-series_4,79,29.454545454545457,146,181,215
-series_4,81,28.000000000000004,146,181,215
-series_4,82,12.0,146,181,215
-series_4,84,38.90909090909091,146,181,215
-series_4,85,38.54545454545455,146,181,215
-series_4,87,28.000000000000004,146,181,215
-series_4,88,18.90909090909091,146,181,215
-series_4,90,28.000000000000004,146,181,215
-series_4,91,17.81818181818182,146,181,215
-series_4,92,17.81818181818182,146,181,215
-series_4,94,28.000000000000004,146,181,215
-series_4,95,28.000000000000004,146,181,215
-series_4,97,28.000000000000004,146,181,215
-series_4,98,28.000000000000004,146,181,215
+series,x_position,country,value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,5,DEU,7.2727272727272725,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,6,GRC,7.2727272727272725,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,8,ITA,10.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,9,LUX,10.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,11,PRT,10.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,12,ESP,10.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,15,CAN,11.272727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,18,AUS,11.636363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,19,NZL,11.636363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,21,KOR,14.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,22,TUR,14.909090909090908,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,24,EST,15.272727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,25,HUN,15.272727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,27,LTU,16.363636363636363,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,28,POL,16.363636363636363,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,31,CZE,17.454545454545457,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,32,NOR,17.454545454545457,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,34,ISL,17.81818181818182,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,35,MEX,17.81818181818182,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,37,BRA,21.454545454545453,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,38,ARG,21.454545454545453,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,40,IND,22.545454545454547,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,41,,22.181818181818183,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,44,,23.636363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,45,,23.636363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,47,,24.727272727272727,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,48,,24.727272727272727,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,50,,25.818181818181817,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,51,,25.818181818181817,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,53,,28.72727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,54,,28.72727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,57,,29.09090909090909,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,58,,28.72727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,60,,32.0,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,61,,32.0,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,63,,33.81818181818182,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,64,,33.81818181818182,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,66,,36.36363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,67,,36.36363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,70,,36.72727272727273,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,71,,36.36363636363637,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,73,,38.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,74,,38.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,76,,38.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,77,,38.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,79,,39.63636363636363,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,80,,39.63636363636363,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,83,,41.45454545454545,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,84,,36.0,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,86,,41.45454545454545,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,87,,41.090909090909086,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,89,,41.81818181818181,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,90,,41.81818181818181,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,92,,42.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,93,,42.54545454545455,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,95,,42.90909090909091,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,96,,42.90909090909091,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_0,99,,47.63636363636364,198,92,106,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,0,AUT,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,1,BEL,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,3,FIN,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,4,FRA,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,5,DEU,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,6,GRC,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,7,IRL,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,8,ITA,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,9,LUX,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,10,NLD,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,11,PRT,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,13,SWE,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,14,GBR,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,16,JPN,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,17,USA,33.81818181818182,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,18,AUS,33.81818181818182,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,19,NZL,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,20,ISR,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,21,KOR,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,22,TUR,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,23,CHL,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,24,EST,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,25,HUN,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,26,LVA,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,27,LTU,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,29,SVK,68.72727272727272,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,30,SVN,69.0909090909091,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,32,NOR,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,33,CHE,28.363636363636363,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,34,ISL,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,35,MEX,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,36,CRI,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,37,BRA,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,38,ARG,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,39,COL,57.45454545454546,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,40,IND,57.45454545454546,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,42,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,43,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,45,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,46,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,47,,15.636363636363637,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,48,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,49,,30.181818181818183,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,50,,30.181818181818183,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,51,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,52,,48.0,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,53,,48.0,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,55,,41.45454545454545,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,56,,41.45454545454545,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,58,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,59,,55.63636363636364,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,60,,55.63636363636364,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,61,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,62,,35.27272727272727,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,63,,35.27272727272727,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,64,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,65,,32.36363636363636,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,66,,32.36363636363636,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,68,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,69,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,71,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,72,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,74,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,75,,40.36363636363636,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,76,,40.36363636363636,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,77,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,78,,29.818181818181817,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,79,,29.818181818181817,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,81,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,82,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,84,,36.36363636363637,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,85,,38.90909090909091,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,87,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,88,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,89,,18.90909090909091,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,90,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,91,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,92,,17.454545454545457,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,94,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,95,,10.181818181818182,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,97,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_1,98,,28.000000000000004,109,144,185,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,0,AUT,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,1,BEL,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,3,FIN,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,4,FRA,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,5,DEU,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,6,GRC,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,7,IRL,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,8,ITA,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,9,LUX,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,10,NLD,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,11,PRT,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,12,ESP,10.909090909090908,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,13,SWE,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,14,GBR,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,15,CAN,10.909090909090908,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,16,JPN,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,17,USA,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,18,AUS,11.272727272727273,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,19,NZL,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,20,ISR,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,21,KOR,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,22,TUR,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,23,CHL,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,24,EST,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,25,HUN,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,26,LVA,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,27,LTU,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,28,POL,16.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,29,SVK,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,31,CZE,17.454545454545457,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,32,NOR,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,33,CHE,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,34,ISL,17.454545454545457,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,35,MEX,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,36,CRI,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,37,BRA,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,38,ARG,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,39,COL,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,41,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,42,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,43,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,44,,23.272727272727273,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,45,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,46,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,47,,24.363636363636363,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,48,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,49,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,50,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,51,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,52,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,54,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,55,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,57,,28.72727272727273,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,58,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,60,,32.36363636363636,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,61,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,62,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,63,,33.45454545454545,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,64,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,65,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,66,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,67,,36.36363636363637,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,68,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,69,,36.36363636363637,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,70,,36.72727272727273,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,71,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,72,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,73,,38.18181818181819,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,74,,38.18181818181819,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,76,,38.18181818181819,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,77,,38.18181818181819,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,78,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,79,,39.63636363636363,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,80,,39.27272727272727,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,81,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,82,,41.45454545454545,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,83,,41.090909090909086,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,84,,41.090909090909086,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,86,,41.090909090909086,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,87,,36.36363636363637,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,88,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,89,,41.81818181818181,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,90,,41.45454545454545,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,91,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,92,,42.54545454545455,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,93,,42.18181818181818,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,94,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,95,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,96,,42.54545454545455,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,97,,36.36363636363637,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,98,,36.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_2,99,,48.0,217,143,151,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,11,PRT,10.545454545454545,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,14,GBR,10.909090909090908,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,18,AUS,11.272727272727273,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,21,KOR,11.272727272727273,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,73,,12.363636363636363,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,76,,38.18181818181819,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_3,82,,12.363636363636363,97,78,96,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,0,AUT,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,4,FRA,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,7,IRL,20.0,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,8,ITA,20.363636363636363,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,10,NLD,22.181818181818183,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,11,PRT,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,13,SWE,21.09090909090909,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,14,GBR,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,16,JPN,33.81818181818182,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,17,USA,33.45454545454545,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,18,AUS,33.81818181818182,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,19,NZL,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,20,ISR,11.272727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,21,KOR,10.909090909090908,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,23,CHL,13.818181818181818,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,24,EST,13.818181818181818,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,26,LVA,7.2727272727272725,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,27,LTU,6.909090909090909,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,29,SVK,69.0909090909091,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,30,SVN,69.0909090909091,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,31,CZE,68.72727272727272,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,33,CHE,28.72727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,34,ISL,28.72727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,35,MEX,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,36,CRI,4.7272727272727275,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,37,BRA,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,38,ARG,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,39,COL,57.09090909090909,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,40,IND,57.09090909090909,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,42,,24.363636363636363,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,43,,24.363636363636363,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,46,,15.272727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,48,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,49,,29.818181818181817,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,50,,29.818181818181817,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,52,,48.36363636363637,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,53,,48.36363636363637,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,56,,41.81818181818181,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,58,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,59,,55.27272727272727,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,61,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,62,,34.909090909090914,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,63,,35.27272727272727,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,65,,32.0,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,66,,32.0,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,68,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,69,,25.09090909090909,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,71,,12.363636363636363,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,72,,12.363636363636363,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,74,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,75,,40.72727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,76,,40.72727272727273,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,77,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,78,,29.818181818181817,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,79,,29.454545454545457,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,81,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,82,,12.0,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,84,,38.90909090909091,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,85,,38.54545454545455,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,87,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,88,,18.90909090909091,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,90,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,91,,17.81818181818182,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,92,,17.81818181818182,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,94,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,95,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,97,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation
+series_4,98,,28.000000000000004,146,181,215,Standard Deviation of CIT and DBCFT Revenue by Country,Bar chart showing revenue volatility/standard deviation for CIT and DBCFT across countries,Countries,Standard Deviation

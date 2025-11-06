@@ -290,5 +290,57 @@
         59
       ]
     }
+  },
+  "metadata": {
+    "title": "CIT Revenue Change vs DBCFT Adoption (Negative Range Focus)",
+    "description": "Scatter plot focusing on countries with negative revenue changes from both CIT and DBCFT adoption",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "DBCFT Adoption, Revenue Percent Change",
+      "unit": "percent",
+      "range": [
+        -200,
+        0
+      ]
+    },
+    "y_axis": {
+      "label": "CIT Revenue, Percent Change",
+      "unit": "percent",
+      "range": [
+        -60,
+        0
+      ]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero revenue change from DBCFT adoption"
+      },
+      "diagonal": {
+        "present": true,
+        "style": "dashed",
+        "description": "Reference trend line"
+      }
+    },
+    "labeled_countries": [
+      "CHN",
+      "UKR",
+      "HRV",
+      "IRL",
+      "KAZ",
+      "CZE",
+      "KOR",
+      "AUS",
+      "LUX",
+      "BGR",
+      "FIN",
+      "SVK"
+    ],
+    "color_coding": {
+      "red_filled": "Primary group of countries",
+      "orange_outline": "Secondary group of countries"
+    },
+    "notes": "Zoomed-in view of countries experiencing revenue losses; shows variation in how countries are affected by tax system changes"
   }
 }

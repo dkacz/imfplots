@@ -456,5 +456,82 @@
         86
       ]
     }
+  },
+  "metadata": {
+    "title": "Net IIP vs Trade Balance by Country",
+    "description": "Scatter plot showing relationship between trade balance and net international investment position",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Trade Balance, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -20,
+        40
+      ]
+    },
+    "y_axis": {
+      "label": "Net IIP, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -400,
+        200
+      ]
+    },
+    "reference_lines": {
+      "vertical": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero trade balance"
+      },
+      "horizontal": {
+        "position": 0,
+        "style": "dashed",
+        "description": "Zero net IIP"
+      }
+    },
+    "labeled_countries": [
+      "NOR",
+      "CHE",
+      "NLD",
+      "JPN",
+      "BEL",
+      "DNK",
+      "DEU",
+      "SWE",
+      "KOR",
+      "HUN",
+      "CAN",
+      "FIN",
+      "ITA",
+      "USA",
+      "CZE",
+      "CYP",
+      "FRA",
+      "AUT",
+      "NZL",
+      "TUR",
+      "SVK",
+      "POL",
+      "GBR",
+      "MEX",
+      "GRC",
+      "EST",
+      "SVN",
+      "LVA",
+      "ISR",
+      "KAZ",
+      "HRV",
+      "ARM",
+      "MAR",
+      "HND",
+      "LUX",
+      "IRL",
+      "ISL"
+    ],
+    "color_coding": {
+      "blue": "Countries with positive characteristics",
+      "red": "Countries with negative characteristics"
+    },
+    "notes": "Notable outliers include NOR (high positive IIP), ISL (very negative IIP), and LUX (high trade surplus)"
   }
 }

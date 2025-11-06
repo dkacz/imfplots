@@ -288,5 +288,52 @@
         183
       ]
     }
+  },
+  "metadata": {
+    "title": "Adjusted vs Unadjusted DBCFT Revenue",
+    "description": "Scatter plot comparing adjusted DBCFT revenue with unadjusted DBCFT revenue by country",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Adjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -5,
+        10
+      ]
+    },
+    "y_axis": {
+      "label": "Unadjusted DBCFT Revenue, Percent of GDP",
+      "unit": "percent",
+      "range": [
+        -5,
+        10
+      ]
+    },
+    "series": {
+      "Countries": {
+        "color": "blue",
+        "marker": "circle_outline",
+        "description": "Country data points"
+      }
+    },
+    "trend_line": {
+      "present": true,
+      "color": "red",
+      "description": "45-degree reference line showing perfect correlation"
+    },
+    "labeled_countries": [
+      "MEX",
+      "USA",
+      "BEL",
+      "KOR",
+      "IRL",
+      "CYP",
+      "NLD",
+      "SWE",
+      "CHE",
+      "GRC",
+      "LUX"
+    ],
+    "notes": "Most countries cluster near the 45-degree line, indicating adjustments have minimal impact; LUX is a notable outlier"
   }
 }

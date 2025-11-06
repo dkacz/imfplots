@@ -1,149 +1,149 @@
-series,x_position,value,color_r,color_g,color_b
-series_0,42,91.69811320754717,110,141,125
-series_0,43,76.60377358490567,110,141,125
-series_0,44,96.22641509433963,110,141,125
-series_0,45,92.83018867924528,110,141,125
-series_0,46,96.98113207547169,110,141,125
-series_0,47,97.35849056603773,110,141,125
-series_0,48,97.35849056603773,110,141,125
-series_0,49,100.0,110,141,125
-series_0,50,100.0,110,141,125
-series_0,51,91.69811320754717,110,141,125
-series_0,52,90.9433962264151,110,141,125
-series_0,53,100.0,110,141,125
-series_0,54,99.24528301886792,110,141,125
-series_0,55,89.05660377358491,110,141,125
-series_0,56,89.05660377358491,110,141,125
-series_0,59,81.13207547169812,110,141,125
-series_0,61,79.62264150943396,110,141,125
-series_0,62,82.26415094339623,110,141,125
-series_0,63,79.62264150943396,110,141,125
-series_0,64,96.60377358490567,110,141,125
-series_0,65,96.60377358490567,110,141,125
-series_0,66,96.60377358490567,110,141,125
-series_0,67,96.60377358490567,110,141,125
-series_0,68,96.60377358490567,110,141,125
-series_0,69,96.60377358490567,110,141,125
-series_0,70,69.81132075471697,110,141,125
-series_0,71,69.43396226415094,110,141,125
-series_0,72,70.18867924528301,110,141,125
-series_0,73,70.18867924528301,110,141,125
-series_0,74,70.18867924528301,110,141,125
-series_2,0,100.0,196,199,192
-series_2,11,78.11320754716982,196,199,192
-series_2,12,75.47169811320755,196,199,192
-series_2,13,75.84905660377359,196,199,192
-series_2,14,77.35849056603774,196,199,192
-series_2,15,78.11320754716982,196,199,192
-series_2,16,78.11320754716982,196,199,192
-series_2,20,77.35849056603774,196,199,192
-series_2,23,79.24528301886792,196,199,192
-series_2,24,78.8679245283019,196,199,192
-series_2,25,78.11320754716982,196,199,192
-series_2,26,78.11320754716982,196,199,192
-series_2,27,78.11320754716982,196,199,192
-series_2,28,85.28301886792453,196,199,192
-series_2,29,84.52830188679246,196,199,192
-series_2,30,89.81132075471699,196,199,192
-series_2,31,94.33962264150944,196,199,192
-series_2,32,95.47169811320755,196,199,192
-series_2,33,95.47169811320755,196,199,192
-series_2,34,72.83018867924528,196,199,192
-series_2,35,92.45283018867924,196,199,192
-series_2,36,94.33962264150944,196,199,192
-series_2,37,95.47169811320755,196,199,192
-series_2,38,97.35849056603773,196,199,192
-series_2,39,100.0,196,199,192
-series_2,40,90.9433962264151,196,199,192
-series_2,41,100.0,196,199,192
-series_2,42,92.45283018867924,196,199,192
-series_2,43,96.22641509433963,196,199,192
-series_2,44,97.35849056603773,196,199,192
-series_2,45,100.0,196,199,192
-series_2,46,99.62264150943396,196,199,192
-series_2,47,97.73584905660377,196,199,192
-series_2,48,99.62264150943396,196,199,192
-series_2,49,94.71698113207547,196,199,192
-series_2,50,100.0,196,199,192
-series_2,51,92.0754716981132,196,199,192
-series_2,52,90.18867924528303,196,199,192
-series_2,53,99.62264150943396,196,199,192
-series_2,54,98.86792452830188,196,199,192
-series_2,55,81.88679245283019,196,199,192
-series_2,56,81.88679245283019,196,199,192
-series_2,58,81.13207547169812,196,199,192
-series_2,59,82.26415094339623,196,199,192
-series_2,61,95.09433962264151,196,199,192
-series_2,62,96.60377358490567,196,199,192
-series_2,63,96.22641509433963,196,199,192
-series_2,64,96.98113207547169,196,199,192
-series_2,65,96.22641509433963,196,199,192
-series_2,66,96.98113207547169,196,199,192
-series_2,67,96.98113207547169,196,199,192
-series_2,68,96.60377358490567,196,199,192
-series_2,69,96.98113207547169,196,199,192
-series_2,72,67.16981132075472,196,199,192
-series_2,73,67.16981132075472,196,199,192
-series_2,74,67.9245283018868,196,199,192
-series_3,9,77.73584905660378,178,42,55
-series_3,10,77.73584905660378,178,42,55
-series_3,13,77.73584905660378,178,42,55
-series_3,14,75.84905660377359,178,42,55
-series_3,15,77.73584905660378,178,42,55
-series_3,16,77.35849056603774,178,42,55
-series_3,20,79.24528301886792,178,42,55
-series_3,21,79.24528301886792,178,42,55
-series_3,22,78.49056603773586,178,42,55
-series_3,23,79.24528301886792,178,42,55
-series_3,25,92.83018867924528,178,42,55
-series_3,26,93.58490566037736,178,42,55
-series_3,27,92.83018867924528,178,42,55
-series_3,28,94.71698113207547,178,42,55
-series_3,29,95.47169811320755,178,42,55
-series_3,30,95.47169811320755,178,42,55
-series_3,31,95.09433962264151,178,42,55
-series_3,32,95.47169811320755,178,42,55
-series_3,33,95.47169811320755,178,42,55
-series_3,34,95.09433962264151,178,42,55
-series_3,35,100.0,178,42,55
-series_3,36,100.0,178,42,55
-series_3,37,100.0,178,42,55
-series_3,38,100.0,178,42,55
-series_3,39,90.56603773584906,178,42,55
-series_3,40,89.43396226415095,178,42,55
-series_3,41,100.0,178,42,55
-series_3,42,100.0,178,42,55
-series_3,43,90.18867924528303,178,42,55
-series_3,44,89.05660377358491,178,42,55
-series_4,9,78.11320754716982,201,129,117
-series_4,10,75.47169811320755,201,129,117
-series_4,11,78.11320754716982,201,129,117
-series_4,12,75.47169811320755,201,129,117
-series_4,13,78.11320754716982,201,129,117
-series_4,14,78.11320754716982,201,129,117
-series_4,15,78.11320754716982,201,129,117
-series_4,16,78.11320754716982,201,129,117
-series_4,21,79.62264150943396,201,129,117
-series_4,23,76.9811320754717,201,129,117
-series_4,24,79.24528301886792,201,129,117
-series_4,25,93.20754716981132,201,129,117
-series_4,26,90.18867924528303,201,129,117
-series_4,27,93.58490566037736,201,129,117
-series_4,28,92.0754716981132,201,129,117
-series_4,29,92.45283018867924,201,129,117
-series_4,30,95.84905660377359,201,129,117
-series_4,31,92.0754716981132,201,129,117
-series_4,32,95.84905660377359,201,129,117
-series_4,33,95.09433962264151,201,129,117
-series_4,34,95.47169811320755,201,129,117
-series_4,35,95.84905660377359,201,129,117
-series_4,36,98.86792452830188,201,129,117
-series_4,37,95.47169811320755,201,129,117
-series_4,38,100.0,201,129,117
-series_4,39,87.9245283018868,201,129,117
-series_4,40,100.0,201,129,117
-series_4,41,99.24528301886792,201,129,117
-series_4,42,87.9245283018868,201,129,117
-series_4,43,89.81132075471699,201,129,117
-series_4,44,89.05660377358491,201,129,117
-series_4,45,91.32075471698113,201,129,117
+series,x_position,country,value,color_r,color_g,color_b,plot_title,plot_description,x_axis_label,y_axis_label
+series_0,42,,91.69811320754717,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,43,,76.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,44,,96.22641509433963,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,45,,92.83018867924528,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,46,,96.98113207547169,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,47,,97.35849056603773,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,48,,97.35849056603773,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,49,,100.0,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,50,,100.0,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,51,,91.69811320754717,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,52,,90.9433962264151,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,53,,100.0,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,54,,99.24528301886792,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,55,,89.05660377358491,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,56,,89.05660377358491,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,59,,81.13207547169812,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,61,,79.62264150943396,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,62,,82.26415094339623,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,63,,79.62264150943396,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,64,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,65,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,66,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,67,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,68,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,69,,96.60377358490567,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,70,,69.81132075471697,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,71,,69.43396226415094,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,72,,70.18867924528301,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,73,,70.18867924528301,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_0,74,,70.18867924528301,110,141,125,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,0,,100.0,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,11,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,12,,75.47169811320755,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,13,,75.84905660377359,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,14,,77.35849056603774,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,15,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,16,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,20,,77.35849056603774,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,23,,79.24528301886792,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,24,,78.8679245283019,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,25,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,26,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,27,,78.11320754716982,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,28,,85.28301886792453,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,29,,84.52830188679246,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,30,,89.81132075471699,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,31,,94.33962264150944,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,32,,95.47169811320755,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,33,,95.47169811320755,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,34,,72.83018867924528,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,35,,92.45283018867924,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,36,,94.33962264150944,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,37,,95.47169811320755,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,38,,97.35849056603773,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,39,,100.0,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,40,,90.9433962264151,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,41,,100.0,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,42,,92.45283018867924,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,43,,96.22641509433963,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,44,,97.35849056603773,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,45,,100.0,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,46,,99.62264150943396,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,47,,97.73584905660377,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,48,,99.62264150943396,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,49,,94.71698113207547,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,50,,100.0,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,51,,92.0754716981132,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,52,,90.18867924528303,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,53,,99.62264150943396,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,54,,98.86792452830188,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,55,,81.88679245283019,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,56,,81.88679245283019,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,58,,81.13207547169812,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,59,,82.26415094339623,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,61,,95.09433962264151,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,62,,96.60377358490567,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,63,,96.22641509433963,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,64,,96.98113207547169,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,65,,96.22641509433963,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,66,,96.98113207547169,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,67,,96.98113207547169,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,68,,96.60377358490567,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,69,,96.98113207547169,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,72,,67.16981132075472,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,73,,67.16981132075472,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_2,74,,67.9245283018868,196,199,192,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,9,,77.73584905660378,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,10,,77.73584905660378,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,13,,77.73584905660378,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,14,,75.84905660377359,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,15,,77.73584905660378,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,16,,77.35849056603774,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,20,,79.24528301886792,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,21,,79.24528301886792,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,22,,78.49056603773586,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,23,,79.24528301886792,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,25,,92.83018867924528,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,26,,93.58490566037736,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,27,,92.83018867924528,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,28,,94.71698113207547,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,29,,95.47169811320755,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,30,,95.47169811320755,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,31,,95.09433962264151,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,32,,95.47169811320755,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,33,,95.47169811320755,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,34,,95.09433962264151,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,35,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,36,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,37,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,38,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,39,,90.56603773584906,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,40,,89.43396226415095,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,41,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,42,,100.0,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,43,,90.18867924528303,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_3,44,,89.05660377358491,178,42,55,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,9,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,10,,75.47169811320755,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,11,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,12,,75.47169811320755,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,13,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,14,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,15,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,16,,78.11320754716982,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,21,,79.62264150943396,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,23,,76.9811320754717,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,24,,79.24528301886792,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,25,,93.20754716981132,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,26,,90.18867924528303,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,27,,93.58490566037736,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,28,,92.0754716981132,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,29,,92.45283018867924,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,30,,95.84905660377359,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,31,,92.0754716981132,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,32,,95.84905660377359,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,33,,95.09433962264151,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,34,,95.47169811320755,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,35,,95.84905660377359,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,36,,98.86792452830188,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,37,,95.47169811320755,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,38,,100.0,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,39,,87.9245283018868,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,40,,100.0,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,41,,99.24528301886792,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,42,,87.9245283018868,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,43,,89.81132075471699,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,44,,89.05660377358491,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"
+series_4,45,,91.32075471698113,201,129,117,CIT Revenue Change vs DBCFT Adoption Revenue Change,Scatter plot showing relationship between DBCFT adoption revenue impact and CIT revenue change,"DBCFT Adoption, Revenue Percent Change","CIT Revenue, Percent Change"

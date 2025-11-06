@@ -18,7 +18,7 @@ import argparse
 class PlotDataExtractor:
     """Extract numeric data from plot images."""
 
-    def __init__(self, image_path: str):
+    def __init__(self, image_path: str, metadata_path: Optional[str] = None):
         """Initialize extractor with image path."""
         self.image_path = image_path
         self.image = cv2.imread(image_path)
@@ -26,6 +26,29 @@ class PlotDataExtractor:
             raise ValueError(f"Could not load image: {image_path}")
         self.image_rgb = cv2.cvtColor(self.image, cv2.COLOR_BGR2RGB)
         self.height, self.width = self.image.shape[:2]
+
+        # Load metadata if available
+        self.metadata = self._load_metadata(metadata_path)
+
+    def _load_metadata(self, metadata_path: Optional[str] = None) -> Dict:
+        """Load metadata from JSON file."""
+        if metadata_path and os.path.exists(metadata_path):
+            with open(metadata_path, 'r') as f:
+                all_metadata = json.load(f)
+                filename = os.path.basename(self.image_path)
+                return all_metadata.get(filename, {})
+
+        # Try to find metadata in same directory
+        image_dir = os.path.dirname(self.image_path) or '.'
+        default_metadata_path = os.path.join(image_dir, 'plot_metadata.json')
+
+        if os.path.exists(default_metadata_path):
+            with open(default_metadata_path, 'r') as f:
+                all_metadata = json.load(f)
+                filename = os.path.basename(self.image_path)
+                return all_metadata.get(filename, {})
+
+        return {}
 
     def detect_plot_area(self) -> Tuple[int, int, int, int]:
         """
@@ -242,7 +265,7 @@ class PlotDataExtractor:
             data = self.extract_scatter_plot_data(plot_area, colors)
             detected_type = 'scatter'
 
-        return {
+        result = {
             'plot_type': detected_type,
             'image_path': self.image_path,
             'plot_area': plot_area,
@@ -250,21 +273,73 @@ class PlotDataExtractor:
             'colors': colors
         }
 
+        # Merge metadata if available
+        if self.metadata:
+            result['metadata'] = self.metadata
+
+            # Add country/category labels to data if available
+            if detected_type == 'bar':
+                countries = self.metadata.get('x_axis', {}).get('countries', [])
+                categories = self.metadata.get('x_axis', {}).get('categories', [])
+
+                if countries or categories:
+                    for series_name, series_info in data.items():
+                        x_positions = series_info.get('x_positions', [])
+                        labels = []
+                        for pos in x_positions:
+                            if countries and pos < len(countries):
+                                labels.append(countries[pos])
+                            elif categories and pos < len(categories):
+                                labels.append(categories[pos])
+                            else:
+                                labels.append('')
+                        series_info['labels'] = labels
+
+        return result
+
     def save_to_csv(self, data: Dict, output_path: str):
         """Save extracted data to CSV format."""
         plot_data = data['data']
+        metadata = data.get('metadata', {})
+
+        # Extract metadata fields
+        title = metadata.get('title', '')
+        description = metadata.get('description', '')
+        x_label = metadata.get('x_axis', {}).get('label', '')
+        y_label = metadata.get('y_axis', {}).get('label', '')
+
+        # Get country/category mappings if available
+        countries = metadata.get('x_axis', {}).get('countries', [])
+        categories = metadata.get('x_axis', {}).get('categories', [])
 
         if data['plot_type'] == 'bar':
             # Create DataFrame for bar chart
             all_series = []
             for series_name, series_info in plot_data.items():
+                x_positions = series_info.get('x_positions', [])
+
+                # Map x_positions to country/category names
+                x_labels = []
+                for pos in x_positions:
+                    if countries and pos < len(countries):
+                        x_labels.append(countries[pos])
+                    elif categories and pos < len(categories):
+                        x_labels.append(categories[pos])
+                    else:
+                        x_labels.append('')
+
                 df = pd.DataFrame({
                     'series': series_name,
-                    'x_position': series_info.get('x_positions', []),
+                    'x_position': x_positions,
+                    'country': x_labels if countries or categories else [''] * len(x_positions),
                     'value': series_info.get('values', []),
                     'color_r': series_info['color'][0],
                     'color_g': series_info['color'][1],
-                    'color_b': series_info['color'][2]
+                    'color_b': series_info['color'][2],
+                    'plot_title': title,
+                    'plot_description': description,
+                    'x_axis_label': x_label,
+                    'y_axis_label': y_label
                 })
                 all_series.append(df)
 
@@ -281,7 +356,11 @@ class PlotDataExtractor:
                     'y_value': series_info.get('y_values', []),
                     'color_r': series_info['color'][0],
                     'color_g': series_info['color'][1],
-                    'color_b': series_info['color'][2]
+                    'color_b': series_info['color'][2],
+                    'plot_title': title,
+                    'plot_description': description,
+                    'x_axis_label': x_label,
+                    'y_axis_label': y_label
                 })
                 all_series.append(df)
 
@@ -314,6 +393,10 @@ class PlotDataExtractor:
             'plot_area': data['plot_area'],
             'data': convert_to_native(data['data'])
         }
+
+        # Add metadata if available
+        if 'metadata' in data:
+            json_data['metadata'] = data['metadata']
 
         with open(output_path, 'w') as f:
             json.dump(json_data, f, indent=2)

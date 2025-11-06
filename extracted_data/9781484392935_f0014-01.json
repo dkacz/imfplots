@@ -595,5 +595,43 @@
         124
       ]
     }
+  },
+  "metadata": {
+    "title": "Revenue Gain vs Revenue Loss from DBCFT Adoption",
+    "description": "Scatter plot showing relationship between trade balance and revenue change from adopting DBCFT",
+    "plot_type": "scatter_plot",
+    "x_axis": {
+      "label": "Trade Balance",
+      "unit": "unknown",
+      "range": [
+        -40,
+        40
+      ]
+    },
+    "y_axis": {
+      "label": "Revenue Change",
+      "unit": "unknown",
+      "range": [
+        -10,
+        10
+      ]
+    },
+    "series": {
+      "Revenue gain": {
+        "color": "blue",
+        "marker": "circle_outline",
+        "description": "Countries experiencing revenue gains from DBCFT adoption"
+      },
+      "Revenue loss": {
+        "color": "red",
+        "marker": "filled_circle",
+        "description": "Countries experiencing revenue losses from DBCFT adoption"
+      }
+    },
+    "trend_line": {
+      "present": true,
+      "description": "Negative correlation between trade balance and revenue change"
+    },
+    "notes": "Clear negative relationship: countries with trade surpluses tend to lose revenue, while deficit countries gain revenue"
   }
 }
