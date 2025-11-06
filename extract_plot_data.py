@@ -277,6 +277,24 @@ class PlotDataExtractor:
         if self.metadata:
             result['metadata'] = self.metadata
 
+            # Add country/category labels to data if available
+            if detected_type == 'bar':
+                countries = self.metadata.get('x_axis', {}).get('countries', [])
+                categories = self.metadata.get('x_axis', {}).get('categories', [])
+
+                if countries or categories:
+                    for series_name, series_info in data.items():
+                        x_positions = series_info.get('x_positions', [])
+                        labels = []
+                        for pos in x_positions:
+                            if countries and pos < len(countries):
+                                labels.append(countries[pos])
+                            elif categories and pos < len(categories):
+                                labels.append(categories[pos])
+                            else:
+                                labels.append('')
+                        series_info['labels'] = labels
+
         return result
 
     def save_to_csv(self, data: Dict, output_path: str):
@@ -290,13 +308,30 @@ class PlotDataExtractor:
         x_label = metadata.get('x_axis', {}).get('label', '')
         y_label = metadata.get('y_axis', {}).get('label', '')
 
+        # Get country/category mappings if available
+        countries = metadata.get('x_axis', {}).get('countries', [])
+        categories = metadata.get('x_axis', {}).get('categories', [])
+
         if data['plot_type'] == 'bar':
             # Create DataFrame for bar chart
             all_series = []
             for series_name, series_info in plot_data.items():
+                x_positions = series_info.get('x_positions', [])
+
+                # Map x_positions to country/category names
+                x_labels = []
+                for pos in x_positions:
+                    if countries and pos < len(countries):
+                        x_labels.append(countries[pos])
+                    elif categories and pos < len(categories):
+                        x_labels.append(categories[pos])
+                    else:
+                        x_labels.append('')
+
                 df = pd.DataFrame({
                     'series': series_name,
-                    'x_position': series_info.get('x_positions', []),
+                    'x_position': x_positions,
+                    'country': x_labels if countries or categories else [''] * len(x_positions),
                     'value': series_info.get('values', []),
                     'color_r': series_info['color'][0],
                     'color_g': series_info['color'][1],
