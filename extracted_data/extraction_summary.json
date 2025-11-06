@@ -1,0 +1,80 @@
+{
+  "9781484392935_f0012-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0012-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0012-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0013-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0013-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0013-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0014-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0014-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0014-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0014-02.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0014-02.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0014-02.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0015-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0015-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0015-01.json",
+    "plot_type": "scatter"
+  },
+  "9781484392935_f0017-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0017-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0017-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0019-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0019-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0019-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0021-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0021-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0021-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0022-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0022-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0022-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0024-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0024-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0024-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0027-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0027-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0027-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0028-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0028-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0028-01.json",
+    "plot_type": "bar"
+  },
+  "9781484392935_f0029-01.jpg": {
+    "status": "success",
+    "csv": "/home/user/imfplots/extracted_data/9781484392935_f0029-01.csv",
+    "json": "/home/user/imfplots/extracted_data/9781484392935_f0029-01.json",
+    "plot_type": "bar"
+  }
+}
