@@ -25,3 +25,17 @@ The remaining ~4pp error is within acceptable range considering:
 
 ## Lesson Learned
 **Accurate country/category positioning is critical** for extraction accuracy. Verifying the x-axis order against the actual plot labels is essential.
+
+## Metadata Correction
+
+The `plot_metadata.json` file had **incorrect country ordering** which caused the positioning error.
+
+### Wrong Order (Original):
+Positions 13-17: `BEL, CHE, SWE, AUT, POL`
+
+### Correct Order (Fixed):
+Positions 13-17: `POL, BEL, CHE, SWE, AUT`
+
+**Impact**: The metadata had 5 countries (positions 13-17) in the wrong sequence, with Poland displaced by 4 positions. This directly caused the ~8pp extraction error before manual correction.
+
+**Fix Applied**: Updated both image entries in `plot_metadata.json` with the corrected country order verified against the actual plot x-axis labels.

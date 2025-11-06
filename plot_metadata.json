@@ -6,7 +6,7 @@
     "x_axis": {
       "label": "Countries",
       "type": "categorical",
-      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "BEL", "CHE", "SWE", "AUT", "POL", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
+      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "POL", "BEL", "CHE", "SWE", "AUT", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
     },
     "y_axis": {
       "label": "Percent of GDP",
@@ -32,7 +32,7 @@
     "x_axis": {
       "label": "Countries",
       "type": "categorical",
-      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "BEL", "CHE", "SWE", "AUT", "POL", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
+      "countries": ["USA", "MEX", "JPN", "GBR", "FRA", "ITA", "DEU", "CAN", "AUS", "ESP", "KOR", "NLD", "POL", "BEL", "CHE", "SWE", "AUT", "NOR", "DNK", "FIN", "ISR", "PRT", "CZE", "GRC", "NZL", "SVK", "CHL", "HUN", "IRL", "SVN", "LTU", "LUX", "LVA", "EST"]
     },
     "y_axis": {
       "label": "Percent",
