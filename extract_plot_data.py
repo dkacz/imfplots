@@ -392,7 +392,6 @@ class PlotDataExtractor:
                     'series': series_name,
                     'x_position': x_positions,
                     'country': x_labels if countries or categories else [''] * len(x_positions),
-                    'value_normalized': normalized_values,
                     'value': actual_values,
                     'value_unit': y_unit if y_unit else '',
                     'color_r': series_info['color'][0],
@@ -429,8 +428,7 @@ class PlotDataExtractor:
 
                 df = pd.DataFrame({
                     'series': series_name,
-                    'x_value_normalized': x_normalized,
-                    'y_value_normalized': y_normalized,
+                    'x_value': x_actual,
                     'y_value': y_actual,
                     'y_value_unit': y_unit if y_unit else '',
                     'color_r': series_info['color'][0],
