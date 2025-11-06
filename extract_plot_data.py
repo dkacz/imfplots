@@ -286,11 +286,26 @@ class PlotDataExtractor:
                     for series_name, series_info in data.items():
                         x_positions = series_info.get('x_positions', [])
                         labels = []
+
+                        # Map x_positions (0-99) to country/category indices
+                        # x_positions represent pixel positions across the plot width
+                        # We need to map them to the actual country/category indices
                         for pos in x_positions:
-                            if countries and pos < len(countries):
-                                labels.append(countries[pos])
-                            elif categories and pos < len(categories):
-                                labels.append(categories[pos])
+                            if countries:
+                                # Map x_position (0-99) to country index (0-len(countries)-1)
+                                # Assuming countries are evenly distributed across the plot
+                                country_idx = int(pos * len(countries) / 100.0)
+                                if 0 <= country_idx < len(countries):
+                                    labels.append(countries[country_idx])
+                                else:
+                                    labels.append('')
+                            elif categories:
+                                # Map x_position to category index
+                                category_idx = int(pos * len(categories) / 100.0)
+                                if 0 <= category_idx < len(categories):
+                                    labels.append(categories[category_idx])
+                                else:
+                                    labels.append('')
                             else:
                                 labels.append('')
                         series_info['labels'] = labels
@@ -319,12 +334,23 @@ class PlotDataExtractor:
                 x_positions = series_info.get('x_positions', [])
 
                 # Map x_positions to country/category names
+                # x_positions are pixel positions (0-99), not direct indices
                 x_labels = []
                 for pos in x_positions:
-                    if countries and pos < len(countries):
-                        x_labels.append(countries[pos])
-                    elif categories and pos < len(categories):
-                        x_labels.append(categories[pos])
+                    if countries:
+                        # Map x_position (0-99) to country index
+                        country_idx = int(pos * len(countries) / 100.0)
+                        if 0 <= country_idx < len(countries):
+                            x_labels.append(countries[country_idx])
+                        else:
+                            x_labels.append('')
+                    elif categories:
+                        # Map x_position to category index
+                        category_idx = int(pos * len(categories) / 100.0)
+                        if 0 <= category_idx < len(categories):
+                            x_labels.append(categories[category_idx])
+                        else:
+                            x_labels.append('')
                     else:
                         x_labels.append('')
 
